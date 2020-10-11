@@ -1,10 +1,11 @@
 ---
 title: "Post: Standard"
+published: false
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - food
+  - books
   - life
   - music
 ---
