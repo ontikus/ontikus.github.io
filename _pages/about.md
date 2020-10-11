@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I have been sending pictures of the meals I cook to my friends on whatsapp. Many of them ask questions, i then respond to each individual question, then keep having the same conversations in different chat groups with different friends. The idea of having a blog started with trying to avoid extra conversations. Hopefully, i will have one blog post to tell my story to all my friends simultaneously. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I also try to take notes while reading books, then make a short summary about the books for friends/family who are too lazy to read the book. So, you may see some of them here, too -i admit that i don't read that many books, so book posts will be a rarity. 
+
+A bit about me:
+* Jack of all trades, master of none
+* Lifelong expat, immigrant, *gurbetçi*
+* Recovering TV addict 
+
