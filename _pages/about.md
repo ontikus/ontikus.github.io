@@ -12,3 +12,5 @@ A bit about me:
 * Lifelong expat, immigrant, *gurbetçi*
 * Recovering TV addict 
 
+
+The posts will be in **English** or **Turkish**. 
