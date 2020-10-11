@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "The Power of Habit"
 published: true
 excerpt_separator: "<!--more-->"
 categories:
