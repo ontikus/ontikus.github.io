@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/richard-lee-WOY8h-olonY-unsplash.jpg"
   bio    : "Life, food, and everything"
   links:
-    - label: "Website"
+    '''- label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
@@ -74,6 +74,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    '''
 
 footer:
   links:
