@@ -1,6 +1,6 @@
 ---
 title: "The Power of Habit"
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -16,8 +16,7 @@ The idea for this post came to my mind while listening to the song [Runaway Trai
 
 Then I thought - there are many songs that explain the moments in our lives that all of us face frequently. If you happen upon a song that perfectly explains *that* moment at exactly the moment you are feeling it...well, this is a list of *those* songs. 
 
-I am not planning on explaining each song and how the song makes me feel. Instead, I will pick a couple of words from the lyrics that I think gives the gist. Hopefully, that will lead you to listen to the song and more importantly, **the lyrics**. 
-
+I am not planning on explaining each song and what each song is supposed to make you feel. Instead, I will pick a couple of words from the lyrics that I think gives the gist. Hopefully, that will lead you to listen to the song and more importantly, **the lyrics**. There's a bonus Russian song at the end. The songs are in no particular order. 
 
 
 1.[Man At Work - Overkill](https://www.youtube.com/watch?v=RY7S6EgSlCI)
@@ -35,21 +34,40 @@ I am not planning on explaining each song and how the song makes me feel. Instea
 >...I run away but it always seems the same
 
 4.[Röyksopp - Remind Me](https://www.youtube.com/watch?v=VzZwbjKN8xE)
+>... and anywhere I go, there's always something to remind me
+>
+>Of another place and time, where love that traveled far had found me
 
 5.[Cat Stevens - Father and Son](https://www.youtube.com/watch?v=P6zaCV4niKk)
 
 6.[Radiohad - Pyramid Song](https://www.youtube.com/watch?v=3M_Gg1xAHE4)
+>... we all went to heaven in a little row boat
+>
+>There was nothing to fear and nothing to doubt...
 
 7.[Tool - Schism](https://www.youtube.com/watch?v=MM62wjLrgmA)
 >I know the pieces fit 'cause I watched them fall away
 
 8.[Metallica - Fixxxer](https://www.youtube.com/watch?v=2yM-MZgl3Gc)
+>Dolls of voodoo all stuck with pins
+>
+>One for each of us and our sins
 
 9.[Metallica - Mama Said](https://www.youtube.com/watch?v=LEzFavuaax8)
+>Mama she has taught me well ...told me when i was young
+>
+>"son your life's an open book, don't close it 'fore its done"
 
-10.[КИНО - Звезда по Имени Солнце](https://www.youtube.com/watch?v=q36wDVMqqoE)
+10.[Radiohead - Fitter Happier](https://www.youtube.com/watch?v=medHT5Bpnt8)
+>A pig .. in a cage .. on antibiotics.. 
 
-11.[Radiohead - Fitter Happier](https://www.youtube.com/watch?v=medHT5Bpnt8)
+## Bonus
+[КИНО - Звезда по Имени Солнце](https://www.youtube.com/watch?v=q36wDVMqqoE)
+
+>Красная, красная кровь — через час уже просто земля,
+>
+>Через два на ней цветы и трава, через три она снова жива. 
+
 
 
 
