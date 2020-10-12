@@ -44,6 +44,8 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
 * En son kremamızı ekleyip yine homojen hale gelene kadar karıştırıyoruz. 
 * Videolarda kek kabının dibini yağlıyorlar fakat ben bunun için uğraşmaya değer bulmadım. Zaten fırın kağıdı koyacağımız için fırın kağıdı kek kalıbına yapışmayı engelliyor. Boşuna uğraşmayın. 
 * Kek kalıbının dibini 2 fırın kağıdıyla güzelce kaplayıp karışımı içine döküyoruz. 
+  
+![Malzemeler](/assets/images/san-sebastian-empty.jpeg)
 * Ne kadar pişireceğimiz konusu biraz çetrefilli. Benim fırınım uyduruk ve mikrodalgalı kombine fırın olduğu için ısıyı iyi tutmuyor. 
 * Benim fırımında ilk 15 dk 220 derecede fırın ve üst brulörler açık, daha sonra 30 dk. sadece 220 derece fırın olmak üzere toplam 45 dk. pişiriyorum. 
 * İnternetteki tariflerde ve videolarda değişik zamanlamalar var. Fakat başta da yazdığım gibi ben yumuşak bir kıvam aradığım için internette gördüklerim bana hep çok pişmiş gibi geliyor. 
