@@ -5,14 +5,15 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - books
+  - life
+  - music
 
 
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
 
-The idea for this post came to my mind while listening to the song [Runaway Train](https://www.youtube.com/watch?v=NRtvqT_wMeY) by Soul Asylum. The song is obviously about drug addiction, but it explains the dark moments when we feel deep in the dumps, not knowing if things are ever going to be OK. It's that moment that we know we messed up, but we are not sure if we will ever be back on track. 
+The idea for this post came to my mind while listening to the song [Runaway Train](https://www.youtube.com/watch?v=NRtvqT_wMeY) by Soul Asylum. The song is obviously about drug addiction, but it explains the dark moments when we feel down in the dumps, not knowing if things are ever going to be OK. It's that moment that we know we messed up, but we are not sure if we will ever be back on track. 
 
 Then I thought - there are many songs that explain the moments in our lives that all of us face frequently. If you happen upon a song that perfectly explains *that* moment at exactly the moment you are feeling it...well, this is a list of *those* songs. 
 
