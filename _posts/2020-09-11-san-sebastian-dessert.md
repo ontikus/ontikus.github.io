@@ -22,9 +22,9 @@ Bunun yerine ben çok daha yumuşak, adeta tamamen krema gibi olan fakat yine de
 
 ## Kaynaklar 
 Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi stilimi bulmadan önce faydalandığım iki tane video var. 
-1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0): bu video yapma metodunu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
+1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0): bu video, metodu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
 
-2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. 
+2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. Ayrıca iki ayrı kapta iki ayrı karışım hazırlayıp sonra onları tekrar birbirine karıştırmak zaman kaybı yaratıyor. 
    
 ## Malzemeler 
 * 500 gr. [Mascarpone](http://www.galbani.com/products.php)
@@ -37,7 +37,7 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
 
 ## Tarif 
 * Tüm karışımı tek bir kapta hazırlayacağımız için büyük ve derin bir karıştırma kabına mascarpone ve krem peynirimizi koyup bir spatula ile karıştırıp yumuşatıyoruz. 
-* Daha sonra pudra şekerimizi ekleyip bu sefer elimize [whisk](https://duckduckgo.com/?t=ffab&q=whisk&iax=images&ia=images) alıp tamamen homojen olana kadar karıştırıyoruz. 
+* Daha sonra pudra şekerimizi ekleyip bu sefer elimize [whisk](https://duckduckgo.com/?t=ffab&q=whisk&iax=images&ia=images) alıp tamamen homojen olana kadar karıştırıyoruz. Videoları izleyince farkedeceksiniz bizim malzemelerimize göre 250 gr. şeker koymamız gerekiyor. Ben tatlımı hakkınca şekerli severim diyorsanız 250 gr. şeker koyun. 
 * Ardından yumurtamızı ekleyip yine el maharetiyle homojen hale gelene kadar karıştırıyoruz. 
 * Mısır nişastamızı ve vanilya aromamızı ekleyip yine karıştırıyoruz. 
 * En son kremamızı ekleyip yine homojen hale gelene kadar karıştırıyoruz. 
@@ -47,6 +47,9 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
 * Benim fırımında ilk 15 dk 220 derecede fırın ve üst brulörler açık, daha sonra 30 dk. sadece 220 derece fırın olmak üzere toplam 45 dk. pişiriyorum. 
 * İnternetteki tariflerde ve videolarda değişik zamanlamalar var. Fakat başta da yazdığım gibi ben yumuşak bir kıvam aradığım için internette gördüklerim bana hep çok pişmiş gibi geliyor. 
 * Fırında pişerken iyice kabaracak fakat korkmayın daha sonra inecek. 
-* Fırından çıkardıktan sonra biraz dışarıda bekletip buzdolabında bir gün dinlendiriyoruz. 
+* Piştiğini anlamak için:
+    *  Üstünün kazandibi misali iyice yanmış olması gerekiyor. 
+    *  Çorba gibi sıvı olmayacak fakat hafif salladığınızda bıngıl bıngıl oynayacak. 
+* Fırından aldıktan sonra biraz bekletip yemeden önce buzdolabında 24 saat dinlendiriyoruz. 
 
 *Afiyet olsun*.
