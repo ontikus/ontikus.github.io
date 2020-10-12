@@ -8,7 +8,16 @@ tags:
   - food
 
 
-
+gallery:
+  - url: /assets/images/san-sebastian-cooked.jpeg
+    image_path: /assets/images/san-sebastian-cooked.jpeg
+    alt: "san sebastian cooked full cake"
+    title: "San Sebastian Cooked Full Cake"
+- url: /assets/images/san-sebastian-slice.jpeg
+    image_path: /assets/images/san-sebastian-slice.jpeg
+    alt: "San Sebastian Slice"
+    title: "San Sebastian Slice"
+    
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
@@ -42,17 +51,25 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
 * Ardından yumurtamızı ekleyip yine el maharetiyle homojen hale gelene kadar karıştırıyoruz. 
 * Mısır nişastamızı ve vanilya aromamızı ekleyip yine karıştırıyoruz. 
 * En son kremamızı ekleyip yine homojen hale gelene kadar karıştırıyoruz. 
-* Videolarda kek kabının dibini yağlıyorlar fakat ben bunun için uğraşmaya değer bulmadım. Zaten fırın kağıdı koyacağımız için fırın kağıdı kek kalıbına yapışmayı engelliyor. Boşuna uğraşmayın. 
-* Kek kalıbının dibini 2 fırın kağıdıyla güzelce kaplayıp karışımı içine döküyoruz. 
+* Videolarda kek kabının dibini yağlıyorlar fakat ben bunun için uğraşmaya değer bulmadım. Zaten fırın kağıdı koyacağımız için fırın kağıdı kek kalıbına yapışmayı engelliyor. Boşuna uğraşmayın.
   
-![Malzemeler](/assets/images/san-sebastian-empty.jpeg)
+![Boş kalıp](/assets/images/san-sebastian-empty.jpeg)
+
+* Kek kalıbının dibini 2 fırın kağıdıyla güzelce kaplayıp karışımı içine döküyoruz. 
+
+![Harç](/assets/images/san-sebastian-not-cooked.jpeg)
+
 * Ne kadar pişireceğimiz konusu biraz çetrefilli. Benim fırınım uyduruk ve mikrodalgalı kombine fırın olduğu için ısıyı iyi tutmuyor. 
 * Benim fırımında ilk 15 dk 220 derecede fırın ve üst brulörler açık, daha sonra 30 dk. sadece 220 derece fırın olmak üzere toplam 45 dk. pişiriyorum. 
+
 * İnternetteki tariflerde ve videolarda değişik zamanlamalar var. Fakat başta da yazdığım gibi ben yumuşak bir kıvam aradığım için internette gördüklerim bana hep çok pişmiş gibi geliyor. 
 * Fırında pişerken iyice kabaracak fakat korkmayın daha sonra inecek. 
 * Piştiğini anlamak için:
     *  Üstünün kazandibi misali iyice yanmış olması gerekiyor. 
     *  Çorba gibi sıvı olmayacak fakat hafif salladığınızda bıngıl bıngıl oynayacak. 
 * Fırından aldıktan sonra biraz bekletip yemeden önce buzdolabında 24 saat dinlendiriyoruz. 
+
+{% include gallery caption="Piştikten hemen sonra ve 24 saat dinlendikten sonra." %}
+
 
 *Afiyet olsun*.
