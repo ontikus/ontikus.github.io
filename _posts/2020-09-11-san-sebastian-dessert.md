@@ -7,21 +7,7 @@ categories:
 tags:
   - food
 
-'''
-gallery:
-  - url: /assets/images/san-sebastian-cooked.jpeg
-    image_path: /assets/images/san-sebastian-cooked.jpeg
-    alt: "san sebastian cooked full cake"
-    title: "San Sebastian Cooked Full Cake"
-- url: /assets/images/san-sebastian-slice.jpeg
-    image_path: /assets/images/san-sebastian-slice.jpeg
-    alt: "San Sebastian Slice"
-    title: "San Sebastian Slice"
 
-Bu kismi galeriyi koymak istedigin yere ekle
-{% include gallery caption="Piştikten hemen sonra ve 24 saat dinlendikten sonra." %}
-
-'''   
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
