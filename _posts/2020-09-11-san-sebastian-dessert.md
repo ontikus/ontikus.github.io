@@ -28,7 +28,7 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
    
 ## Malzemeler 
 * 500 gr. [Mascarpone](http://www.galbani.com/products.php)
-* 500 gr. Krem peynir [Philedelphia Original](https://www.philadelphia.co.uk/products/philadelphia-original/philadelphia-original)
+* 500 gr. Krem peynir [Philadelphia Original](https://www.philadelphia.co.uk/products/philadelphia-original/philadelphia-original)
 * 130 gr. powdered sugar 
 * 500 ml. [krema](https://www.ah.nl/producten/product/wi33705/ah-slagroom-voordeel) 
 * 1 tbsp. (18 ml.) vanilla aroma (Bu sıvı vanilya aroması. Eğer şeker şeklinde vanilya bulursanız bir ufak paket) Vanilyayı kendi ağız tadınıza göre istediğiniz kadar çok veya az koyabilirsiniz. Vanilya sevmiyorsanız koymayabilirsiniz. 
