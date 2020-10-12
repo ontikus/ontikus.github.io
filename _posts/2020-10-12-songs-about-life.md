@@ -1,5 +1,5 @@
 ---
-title: "The Power of Habit"
+title: "Songs about Life"
 published: true
 excerpt_separator: "<!--more-->"
 categories:
