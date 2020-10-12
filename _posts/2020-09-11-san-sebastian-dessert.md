@@ -1,74 +1,52 @@
 ---
-title: "Songs about Life"
+title: "Yoğun istek üzerine San Sebastiyan"
 published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - life
-  - music
+  - food
+
 
 
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
 
-The idea for this post came to my mind while listening to the song [Runaway Train](https://www.youtube.com/watch?v=NRtvqT_wMeY) by Soul Asylum. The song is obviously about drug addiction, but it explains the dark moments when we feel down in the dumps, not knowing if things are ever going to be OK. It's that moment that we know we messed up, but we are not sure if we will ever be back on track. 
+## Neden San Sebastiyan (SS)? 
+Bütün dünyayı kasıp kavurduktan sonra İstanbul'a ulaşan SS kekinden tabi ki benim haberim yoktu. Bir gün babamdan duydum ve heyecan olsun diye denemeye karar verdim. O andan beri 10'dan fazla sefer yapıp konu komşuya, eşe dosta dağıttık. Bir miktar da kendimiz yedik. Herkese hem dilim dilim pasta verip hem de resimler yolladıkça tarif isteyenler çoğaldı. Bu post da elzem oldu. 
 
-Then I thought - there are many songs that explain the moments in our lives that all of us face frequently. If you happen upon a song that perfectly explains *that* moment at exactly the moment you are feeling it...well, this is a list of *those* songs. 
+Disclaimer: Gerçek SS hiç yemediğim için nasıl bir şey olduğunu bilmiyorum. Fakat benim hayalimdeki SS bol kremalı ve yumuşak bir şey olmalı. Internette gördüğüm kadarıyla herkesin keki kalıptan kek gibi çıkacak kadar sert oluyor. 
 
-I am not planning on explaining each song and what each song is supposed to make you feel. Instead, I will pick a couple of words from the lyrics that I think gives the gist. Hopefully, that will lead you to listen to the song and more importantly, **the lyrics**. There's a bonus Russian song at the end. The songs are in no particular order. 
+Bunun yerine ben çok daha yumuşak, adeta tamamen krema gibi olan fakat yine de kendi kendine ayakta durabilen bir kıvam hedefliyorum. Kekinizi kalıptan çıkarmadan servis etmeye hazır olun. 
 
+## Kaynaklar 
+Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi stilimi bulmadan önce faydalandığım iki tane video var. 
+1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0): bu video yapma metodunu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
 
-1.[Man At Work - Overkill](https://www.youtube.com/watch?v=RY7S6EgSlCI)
->I can't get to sleep, I think about the implications
->
->Of diving in too deep, and possibly the complications
+2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. 
+   
+## Malzemeler 
+* 500 gr. [Mascarpone](http://www.galbani.com/products.php)
+* 500 gr. Krem peynir [Philedelphia Original](https://www.philadelphia.co.uk/products/philadelphia-original/philadelphia-original)
+* 130 gr. powdered sugar 
+* 500 ml. [krema](https://www.ah.nl/producten/product/wi33705/ah-slagroom-voordeel) 
+* 1 tbsp. (18 ml.) vanilla aroma (Bu sıvı vanilya aroması. Eğer şeker şeklinde vanilya bulursanız bir ufak paket) Vanilyayı kendi ağız tadınıza göre istediğiniz kadar çok veya az koyabilirsiniz. Vanilya sevmiyorsanız koymayabilirsiniz. 
+* 1 tbsp (18 ml.) mısır nişastası 
+* 4 yumurta 
 
-2.[Colin Hay - Beautiful World](https://www.youtube.com/watch?v=xe3RqgnXaT4)
->My, my, my it's a beautiful world, I like swimming in the sea
->I like to go out beyond the white breakers, where a man can still be free
+## Tarif 
+* Tüm karışımı tek bir kapta hazırlayacağımız için büyük ve derin bir karıştırma kabına mascarpone ve krem peynirimizi koyup bir spatula ile karıştırıp yumuşatıyoruz. 
+* Daha sonra pudra şekerimizi ekleyip bu sefer elimize [whisk](https://duckduckgo.com/?t=ffab&q=whisk&iax=images&ia=images) alıp tamamen homojen olana kadar karıştırıyoruz. 
+* Ardından yumurtamızı ekleyip yine el maharetiyle homojen hale gelene kadar karıştırıyoruz. 
+* Mısır nişastamızı ve vanilya aromamızı ekleyip yine karıştırıyoruz. 
+* En son kremamızı ekleyip yine homojen hale gelene kadar karıştırıyoruz. 
+* Videolarda kek kabının dibini yağlıyorlar fakat ben bunun için uğraşmaya değer bulmadım. Zaten fırın kağıdı koyacağımız için fırın kağıdı kek kalıbına yapışmayı engelliyor. Boşuna uğraşmayın. 
+* Kek kalıbının dibini 2 fırın kağıdıyla güzelce kaplayıp karışımı içine döküyoruz. 
+* Ne kadar pişireceğimiz konusu biraz çetrefilli. Benim fırınım uyduruk ve mikrodalgalı kombine fırın olduğu için ısıyı iyi tutmuyor. 
+* Benim fırımında ilk 15 dk 220 derecede fırın ve üst brulörler açık, daha sonra 30 dk. sadece 220 derece fırın olmak üzere toplam 45 dk. pişiriyorum. 
+* İnternetteki tariflerde ve videolarda değişik zamanlamalar var. Fakat başta da yazdığım gibi ben yumuşak bir kıvam aradığım için internette gördüklerim bana hep çok pişmiş gibi geliyor. 
+* Fırında pişerken iyice kabaracak fakat korkmayın daha sonra inecek. 
+* Fırından çıkardıktan sonra biraz dışarıda bekletip buzdolabında bir gün dinlendiriyoruz. 
 
-3.[Soul Asylum - Runaway Train](https://www.youtube.com/watch?v=NRtvqT_wMeY)
->Runaway train never going back, wrong way on a one-way track... 
->
->...I run away but it always seems the same
-
-4.[Röyksopp - Remind Me](https://www.youtube.com/watch?v=VzZwbjKN8xE)
->... and anywhere I go, there's always something to remind me
->
->Of another place and time, where love that traveled far had found me
-
-5.[Cat Stevens - Father and Son](https://www.youtube.com/watch?v=P6zaCV4niKk)
-
-6.[Radiohad - Pyramid Song](https://www.youtube.com/watch?v=3M_Gg1xAHE4)
->... we all went to heaven in a little row boat
->
->There was nothing to fear and nothing to doubt...
-
-7.[Tool - Schism](https://www.youtube.com/watch?v=MM62wjLrgmA)
->I know the pieces fit 'cause I watched them fall away
-
-8.[Metallica - Fixxxer](https://www.youtube.com/watch?v=2yM-MZgl3Gc)
->Dolls of voodoo all stuck with pins
->
->One for each of us and our sins
-
-9.[Metallica - Mama Said](https://www.youtube.com/watch?v=LEzFavuaax8)
->Mama she has taught me well ...told me when i was young
->
->"son your life's an open book, don't close it 'fore its done"
-
-10.[Radiohead - Fitter Happier](https://www.youtube.com/watch?v=medHT5Bpnt8)
->A pig .. in a cage .. on antibiotics.. 
-
-## Bonus
-[КИНО - Звезда по Имени Солнце](https://www.youtube.com/watch?v=q36wDVMqqoE)
-
->Красная, красная кровь — через час уже просто земля,
->
->Через два на ней цветы и трава, через три она снова жива. 
-
-
-
-
+*Afiyet olsun*.
