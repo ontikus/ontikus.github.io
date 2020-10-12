@@ -27,7 +27,7 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
 2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. Ayrıca iki ayrı kapta iki ayrı karışım hazırlayıp sonra onları tekrar birbirine karıştırmak zaman kaybı yaratıyor. 
    
 ## Malzemeler 
-![Malzemeler](/path/images/san-sebastian-ingredients.jpeg){:class="img-responsive"}
+![Malzemeler](/assets/images/san-sebastian-ingredients.jpeg){:class="img-responsive"}
 * 500 gr. [Mascarpone](http://www.galbani.com/products.php)
 * 500 gr. Krem peynir [Philadelphia Original](https://www.philadelphia.co.uk/products/philadelphia-original/philadelphia-original)
 * 130 gr. powdered sugar 
