@@ -7,7 +7,15 @@ categories:
 tags:
   - food
 
-
+gallery:
+  - url: /assets/images/san-sebastian-cooked.jpeg
+    image_path: /assets/images/san-sebastian-cooked.jpeg
+    alt: "San Sebastian Fully Cooked"
+    title: "San Sebastian Fully Cooked"
+  - url: /assets/images/san-sebastian-slice.jpeg
+    image_path: /assets/images/san-sebastian-slice.jpeg
+    alt: "Slice of San Sebastian"
+    title: "Slice of San Sebastian"
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
@@ -59,10 +67,7 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
     *  Çorba gibi sıvı olmayacak fakat hafif salladığınızda bıngıl bıngıl oynayacak. 
 * Fırından aldıktan sonra biraz bekletip yemeden önce buzdolabında 24 saat dinlendiriyoruz. 
 
-<<<<<<< Updated upstream
 
-=======
-{% include gallery caption="San Sebastian'ımız pişti ve yenmeye hazır" %}
->>>>>>> Stashed changes
+{% include gallery caption="San Sebastian" %}
 
 *Afiyet olsun*.
