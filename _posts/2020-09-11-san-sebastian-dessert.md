@@ -21,14 +21,14 @@ gallery:
 ---
 
 ## Neden San Sebastiyan (SS)? 
-Bütün dünyayı kasıp kavurduktan sonra İstanbul'a ulaşan SS kekinden tabi ki benim haberim yoktu. Bir gün babamdan duydum ve heyecan olsun diye denemeye karar verdim. O andan beri 10'dan fazla sefer yapıp konu komşuya, eşe dosta dağıttık. Bir miktar da kendimiz yedik. Herkese hem dilim dilim pasta verip hem de resimler yolladıkça tarif isteyenler çoğaldı. Bu post da elzem oldu. 
+Bütün dünyayı kasıp kavurduktan sonra İstanbul'a ulaşan SS kekinden tabii ki benim haberim yoktu. Bir gün babamdan duydum ve heyecan olsun diye denemeye karar verdim. O andan beri 10'dan fazla sefer yapıp konu komşuya, eşe dosta dağıttık. Bir miktar da kendimiz yedik. Herkese hem dilim dilim pasta verip hem de resimler yolladıkça tarif isteyenler çoğaldı. Bu post da elzem oldu. 
 
 Disclaimer: Gerçek SS hiç yemediğim için nasıl bir şey olduğunu bilmiyorum. Fakat benim hayalimdeki SS bol kremalı ve yumuşak bir şey olmalı. Internette gördüğüm kadarıyla herkesin keki kalıptan kek gibi çıkacak kadar sert oluyor. 
 
 Bunun yerine ben çok daha yumuşak, adeta tamamen krema gibi olan fakat yine de kendi kendine ayakta durabilen bir kıvam hedefliyorum. Kekinizi kalıptan çıkarmadan servis etmeye hazır olun. 
 
 ## Kaynaklar 
-Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi stilimi bulmadan önce faydalandığım iki tane video var. 
+Tabii ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi stilimi bulmadan önce faydalandığım iki tane video var. 
 1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0): bu video, metodu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
 
 2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. Ayrıca iki ayrı kapta iki ayrı karışım hazırlayıp sonra onları tekrar birbirine karıştırmak zaman kaybı yaratıyor. 
