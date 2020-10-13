@@ -68,6 +68,6 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
 * Fırından aldıktan sonra biraz bekletip yemeden önce buzdolabında 24 saat dinlendiriyoruz. 
 
 
-{% include gallery caption="San Sebastian" %}
+{% include gallery caption="San Sebastian'ımız pişti ve yenmeye hazır" %}
 
 *Afiyet olsun*.
