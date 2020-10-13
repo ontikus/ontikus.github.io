@@ -32,7 +32,6 @@ Yazar, son yıllarda dünyada yaşanan depresyon salgınının sebepleri arasın
 **Başarı algısı:** Geleneksel olarak başarıyı istek ve yetenekten oluşan bir olgu olarak görüyoruz. Yazar ise buna üçüncü bir faktörü eklemeyi öneriyor : optimizm/pesimizm. 
 
 Bu kitabı okuduğumuzda yazarın çözmemizi istediği konular şunlar: 
-
 1.	Ne kadar optimist/pesimist olduğumuzu anlamak.
 2.	Karşılaştığımız insanların ne kadar optimist/pesimist olduğunu anlayabilmek.
 3.	Neden depresyona gireriz ve depresyonumuzun uzun veya kısa olma sebebi nedir? 
@@ -44,13 +43,10 @@ Bu kitabı okuduğumuzda yazarın çözmemizi istediği konular şunlar:
 Tüm bunları öğrenmek için öncelikle öğrenilmiş çaresizlik nedir buna bakalım. 
 
 ## Bölüm 2 - Çaresizliği öğrenmek - Üçlü köpek deneyi 
-
 Öğrenilmiş çaresizliğin temelini atan ilk köpek deneyinden bahsedelim. Üç grup köpeğimiz var. Köpeklerin her biri önce bir kutuya kapatılıp belli şartlara bağlı bir şekilde elektrik şokuna maruz kalıyorlar. 
 
 1.	İlk gruptaki köpekler ilk kapatıldıkları kompartmanda periyodik elektrik şokuna maruz kalıyorlar. Eğer burunlarıyla bir kola bastırırlarsa elektrik şokları duruyor. Eğer basmazlarsa şoklar devam ediyor. 
-
 2.	İkinci gruptaki köpeklerin şok mekanizması birinci köpeklerin mekanizmasına bağlı. Yani ikinci gruptaki köpekler ne yaparlarsa yapsınlar elektrik şoku engelleyemiyorlar. Birinci gruptaki köpeklerin hareketine bağlılar. 
-
 3.	Üçüncü grup kontrol grubumuz. Hiçbir şoka maruz kalmıyorlar. 
 
 Köpeklerin hepsi, daha sonra üzerinden kolayca atlayabilecekleri bir paravanla ikiye bölünmüş bir kutunun içine kapatılıyorlar. Bu kutuda da şok almaya devam ediyorlar, fakat isterlerse kolayca şoktan kaçabilecek durumdalar. Birinci kutudan İkinci kutuya konulduklarında birinci ve üçüncü gruptaki köpekler elektrik şokuyla karşılaştıklarında paravandan atlayarak şoktan kaçabiliyorlar. Fakat ikinci gruptaki köpekler şoktan kaçmayı **denemiyor** bile. 
@@ -64,16 +60,11 @@ Kendi çabalarının sonuca ve kaderlerine bir etkisi olduğunu bilen köpekler 
 Yalnız bu deney sonucunda bazı noktalar tam olarak açıklanamıyor çünkü bu deney birçok köpekle yapıldığında görülüyor ki çaresizlik grubundaki (deneydeki ikinci grup) köpeklerin üçte biri çaresizliğe hiçbir zaman teslim olmuyor ve mücadeleyi hep sürdüyor. Öte yandan şok görmeyen kontrol grubundaki deneklerden 10 da 1'i kaçmayı hiç denemiyor. Yani başından beri zaten öğrenilmiş çaresizlik içindeler. Bu deneyin benzerleri insanlar üzerinde yapıldığında da sonuç aynı. 2. grubun üçte biri doğuştan mücadeleci, kontrol grubunun onda biri doğuştan çaresiz. Bu da bizi **açıklama stili (explanatory style)** konusuna getiriyor. 
 
 ## Bölüm 3- Talihsizlikleri Açıklamak  (explaining misfortune) 
-
 Deneydeki yukarıda belirttiğimiz tutarsızlıkları açıklayabilmek için yazarımız yine yıllarca birçok deney yapıyor ve en sonunda explanatory style -açıklama stili- diye bir bileşen daha yaratıyor. Bu, kısaca başımıza gelen kötü olayları kafamızda çözümlerken kendimize anlattığımız hikayelerin karakteri demek. Zorluklar karşısında çabuk toparlanıp mücadeleye devam etmek ile hemen yelkenleri suya indirip depresyona girmek arasındaki seçimimizi belirleyen şey açıklama stilimiz. 
-
 ### Kimler mücadeleyi bırakmaz?
-
 Açıklama stilimizin 3 önemli bileşeni var. 
 1.	**Süreklilik (Permanence):** Mücadeleyi hemen bırakan insanlar başlarına gelen şeylerin sürekli olacağını, hiç geçmeyeceğine inanır. Mücadeleye devam edenler ise başlarına gelen herşeyin geçici olduğunu ve sadece o anki duruma ait olduğuna inanır. 
-
 2.	**Yayılmışlık (?) (Pervasiveness):** Başarısızlıkları hakkın evrensel ve genel açıklamalar yapan insanlar hayatlarının bir alanındaki bir başarısızlık sonrasında hayatlarının tüm alanlarındaki mücadeleyi bırakırlar. Durumlar hakkında spesifik açıklamalar yapan insanlar ise hayatlarının bir alanında başarısızlık yaşayıp kendilerini o alanda çaresiz hissetseler bile bu çaresizliklerini hayatlarının diğer alanına taşırmamayı başarırlar. 
-
 3.	**Kişiselleştirme (Personalization)** : Başımıza gelen kötü olaylardan kendimizi sorumlu tutabiliriz veya başkalarını ve dışsal olayları sorumlu tutabiliriz. Kendini sorumlu tutan insanlar kendilerine güvenlerini kaybederler. 
 
 Bu üç nokta kitaptan çıkarılacak önemli derslerden birisi. Açıklama stilimiz sürekli, yaygın ve kişisel ise bu bizi pesimist yapıyor. Örnek: ben hiç adam olmayacağım, hep aynı salaklığı yapıyorum. Beceriksizin tekiyim o yüzden bu bardağı kırdım. Herşeyi de kırıyorum zaten. Açıklama stilimiz geçici, spesifik ve dışsal ise bu bizi optimist yapıyor. Örnek: Ahmet bardağı ıslak bırakmış o yüzden elimden kaydı ve kırıldı. 
@@ -85,9 +76,7 @@ Araştırmalar gösteriyor ki eğer açıklama stilimiz pesimist ise hayatımız
 2.	Potansiyelimize ulaşamamak
 3.	Sağlık ve bağışıklık sistemi problemleri 
 4.	Hayattan daha az zevk almak 
-
 ## Bölüm 4- Aşırı Pesimizm 
-
 Pesimist ve melankolik bir durumdayken, aslında depresyonun hafif bir halini geçiriyoruz. Depresyon, aslında pesimizmin aşırı ve kontrolden çıkmış hali olarak düşünülebilir. Depresyon üç tip olarak kabul ediliyor. 
 
 1.	**Normal depresyon:** Başımıza gelen veya etrafta tanık olduğumuz kötü olaylara tepki olarak kendimizi kötü ve depresif hissederiz fakat bir süre sonra bu durumdan çıkarız. Herhangi bir zamanda insanlığın 25%'i bu ruh hali içindedir. 
@@ -113,7 +102,6 @@ Ve en önemlisi, öğrenilmiş çaresizlik semptomları, kişi eğer eylemlerini
 Bütün çaresizlik deneyleri gösteriyor ki öğrenilmiş çaresizlik semptomları neredeyse birebir olarak depresyon semptomlarıyla örtüşüyor. Hatta depresyona yardımcı olan ilaçlar öğrenilmiş çaresizlik denekleri üzerinde kullanıldığında çaresizliklerine de yardımcı oluyor. Bu açıdan dünyamızda son yıllarda görülen depresyon salgınını aslında bir öğrenilmiş çaresizlik salgını olarak düşünebiliriz.
 
 ## Bölüm 5 - Hislerin ve Duyguların 
-
 **Yazarın iddiası:** depresyon, semptomlarından başka bir şey değildir. Depresyonun semptomlarının altında derin manalar aramak, çocukluğa inmek derin psikanalizler yapmanın manası yoktur. Depresyonun sebebi, bilinçli olumsuz düşüncelere sahip olmaktır. **Depresyon, yıllar süresince edinilmiş olumsuz düşünce alışkanları yüzünden başlar.** Eğer bu alışkanlıkları değiştirebilirsek, depresyon da ortadan kalkacaktır. Bu fikirle **COGNITIVE THERAPY** doğdu.
 
 Problemlerimiz hakkındaki düşünce biçimimiz depresyonu arttırabilir veya azaltabilir. Yenilgi veya başarısızlık kendimizi anlık olarak çaresiz hissettirecektir, fakat açıklama stilimiz pesimist ise bu bir anda bizi çok derin bir depresyona sokabilir. Öte yandan açıklama stilimiz optimist ise depresyonumuz azalarak sönümlenecektir. 
@@ -121,24 +109,20 @@ Problemlerimiz hakkındaki düşünce biçimimiz depresyonu arttırabilir veya a
 Açıklama stiliyle birlikte gelen bir başka özellik de problemlerimiz üzerinde çok düşünüp gereksiz analizler yapmak- psikologlar bu davranışı *geviş getirmek (rumination)* olarak tanımlamış. Geviş getirme ve negatif açıklama stili depresyonun reçetesi. 
 
 İyi haber ise hem negatif açıklama stili hem de geviş getirme alışkanlığı cognitive therapy sayesinde düzeltilebilir. 
-
 ### Uzun sözün kısası depresyon şöyle bir yol izler: 
 >pesimizm => geviş getirme => depresyon
-
 ### Süreç de aşağıdaki gibidir: 
 1.	Karşısında çaresiz olduğunuzu hissettiğiniz bir tehditle karşılaşırsınız.
 2.	Bu tehditin sebebini aramaya başlarsınız ve sebep olarak sürekli, yaygın, ve kişisel bir açıklama bulursunuz.
 3.	Gelecekteki benzer durumlarda da çaresiz olacağınıza inanırsınız ve öyle de olursunuz.
-
 ### Cognitive therapy bu sorunu nasıl çözüyor? 
-1.	Otomatik olarak kafanızda oluşan pesimist düşüncelerin farkında olmayı öğren 
-2.	Kafanızda bu olumsuz düşünceleri ve yargıları çürütmek için kanıtlar aramayı öğren
-3.	Otomatik düşünceler hakkında alternatif açıklamalar bulun. Bu düşünceleri daha az sürekli, daha az yaygın ve daha az kişisel hale getir 
-4.	Depresif fikirlerden kendini uzaklaştırmayı öğren 
-5.	Depresyon tohumu eken varsayımları tanıyıp onları sorgulamayı ve çürütmeyi öğren 
+1.	Otomatik olarak kafanızda oluşan pesimist düşüncelerin farkında olmayı öğren.
+2.	Kafanızda bu olumsuz düşünceleri ve yargıları çürütmek için kanıtlar aramayı öğren.
+3.	Otomatik düşünceler hakkında alternatif açıklamalar bulun. Bu düşünceleri daha az sürekli, daha az yaygın ve daha az kişisel hale getir. 
+4.	Depresif fikirlerden kendini uzaklaştırmayı öğren.
+5.	Depresyon tohumu eken varsayımları tanıyıp onları sorgulamayı ve çürütmeyi öğren.
 
 Burada sürekli, yaygın ve kişisel demekle ne kastediyoruz bir örnek daha verelim. 
-
 ### Örnek: Sevdiğiniz kişi tarafından reddedildiniz. 
 * Yaygın: Kadınlar benden nefret ediyor. 
 * Sürekli: Bir daha kimseyi bulamayacağım. 
@@ -166,7 +150,6 @@ Pesimistlerin optimistlerden daha bilge olduğuna dair bir başka bulgu ise kiş
 Pesimistler dünyayı olduğu gibi görürken, optimistler kendi amaçları doğrultusunda gerçeği değiştirip kendilerini ikna edebiliyorlar. 
 
 ## Bölüm 7- Çocuklar ve ebeveynler: Optimizmin kaynağı 
-
 *Bu bölüm, çocuğunuza uygulayabileceğiniz bir optimizm/pesimizm testi sunuyor.*
 
 Ergenlik çağı öncesinde kız çocukları, erkeklerden daha optimistler. Yetişkin hayatta ise bu tersine dönüyor ve depresyon/pesimizm kadınlarda daha yaygın hale geliyor. Ortalamaya baktığımızda da çocuklar, yetişkinlere kıyasla çok daha optimistler. Yine de çocuklar da depresyona girebiliyorlar. Fakat çocuk depresyonunun yetişkin depresyonundan iki büyük farkı var: çocuklar umutsuzluğa kapılmıyor ve intihar etmiyorlar. Depresyonun bileşenlerinden biri olan umutsuzluk, intiharı öngörebilen en önemli bileşen. Potansiyel olarak intihar edebilecek insanların ortak özelliği, yaşadıkları durumun hayatlarının sonuna kadar ve yaptıkları herşeyde aynı şekilde devam edeceğini düşünmeleri. 
@@ -187,7 +170,6 @@ Bu arada bu bölümde aynı zamanda kadınların küçükken mutlu olup yetişki
 Kadınları depresyona sürükleyen en önemli 2 faktör ise: 
 1.	Yakın zamanda yaşanan bir kayıp -eşin ölümü, çocuklarının evden taşınması, vb. Burada kadınların, çocuklarının başka bir yere göçmesini çocuklarının ölümü gibi hissettiklerinden bahsediyor. 
 2.	Teen yaşlarına erişmeden annesinin ölümü 
-
 ## Bölüm 8 - Okul
 Çocuğunuz okulda başarısız ise, bunu kapasite yetersizliğine bağlamak çok kolay. Çocuğunuz hem sizde hem öğretmende olan bu düşünceyi hissedip kendi hakkındaki düşüncelerine bu fikirleri karıştırmaya başlar. Ve birkaç başarısızlıktan sonra kendi pesimist açıklama stilini oluşturup bunu kabullenir. Daha sonra bu açıklama stili yüzünden tekrar başarısızlık yaşar, ve kısır bir döngü içinde kötüye gider. 
 Aslında kitabın çoğunda tekrar edildiği gibi burada da çocuğunuzun açıklama stilindeki sürekli, yaygın ve kişisel kısımları tespit edip, onları değiştirmesini sağlamaya çalışmak gerekiyor. 
@@ -216,7 +198,6 @@ Bir okulla birlikte yıllar sürecek bir proje başlatıp 200 çocuğu izliyor y
 
 Bu bulguların ortalama olduğunu hatırlatalım. Tüm boşanan ailelerin çocukları böyle olmuyor fakat bu çocukların depresyona girmesi çok daha yüksek ihtimal. 
 Aynı zamanda bu çocukların başına daha başka kötü şeyler gelme ihtimali de daha yüksek. Boşanmış ailelerin çocukları, aşağıdaki olayları daha sık yaşıyorlar. 
-
 *	Anneleri başka bir işe başlıyor. 
 *	Okul arkadaşları daha soğuk davranıyor
 *	Bir ebeveyn tekrar evleniyor 
@@ -224,7 +205,6 @@ Aynı zamanda bu çocukların başına daha başka kötü şeyler gelme ihtimali
 *	Çocuk bir dersten sınıfta kalıyor. 
 
 Bunların haricinde, boşanmaya sebep olan aşağıdaki olayları da daha uzun süre yaşıyorlar.  
-
 *	Ebeveynleri daha çok kavga ediyor
 *	Babaları daha sık iş gezisine çıkıyor 
 *	Bir ebeveyn işini kaybediyor 
@@ -238,7 +218,6 @@ Bütün bunların üzerine aşağıdaki olayları da daha fazla yaşıyor boşan
 Boşanma yaşayan çocuklar diğer çocuklara kıyasla çok daha fazla talihsiz olay yaşamaya meyilliler. 
 
 Genel düşünce evinde huzur olmadan yaşamaktansa, ebeveynlerinin ayrılması bir çocuk için daha iyidir şeklindedir. Fakat yapılan çalışma gösteriyor ki bu çocuklar boşanan ailelerin çocuklarından da çok depresyona meyilliler ve başlarına talihsiz bir olay gelme ihtimali çok daha fazla. 
-
 ## Bölüm 9 - Spor 
 Bu bölüm kişisel optimizmin yanı sıra bir grup insanda (takımlarda) bir açıklama stili olabilir mi ve bu açıklama stili takımın başarısına etki edebilir mi sorusuna cevap arıyor. 
 
@@ -247,41 +226,31 @@ Cevap **evet**. Profesyonel spor takımları üzerinde yapılan araştırmalar g
 Aynı zamanda açıklama stili optimist olan takımlar stres altında çok daha iyi performans gösteriyorlar. 
 
 ## Bölüm 10 - Sağlık 
-
 Bölümün ana fikri daha önceki bölümlerde de kısaca değinildiği gibi pesimizmin fiziksel sonuçları da olduğu. 
-
 ## Bölüm 12- Optimist Hayat
 Bu bölümden itibaren hayatımızdaki pesimist anlayışı optimizme nasıl çevirebileceğimizle ilgili taktikler veriliyor. 
 
 Yaşadığımız olaylarla ilgili geliştirdiğimiz bazı inançlarımız bizde pes etme tepkisi yaratır. Bu pes etme tepkisiyle nasıl savaşacağımıza değinelim. 
-
 1.	Birinci adım, Adversity (zorluk) , Belief (inanç), ve Consequences (sonuçlar) arasındaki bağlantıyı anlamak. Hayatımızda bir zorlukla karşı karşıya geldiğimizde o zorluk hakkında düşünürüz. Bu düşünceler hızla inançlarımız haline gelir ve o kadar kemikleşebilir ki bunların varlığını fark etmeyiz bile. Ve bu inançların bizim için sonuçları vardır. Pes etmek ile mücadeleye devam etmek arasındaki farkı bu inançlar belirler. 
 2.	İkinci adım ise bu ilişkinin -ABC- günlük hayatımızda nasıl çalıştığını fark etmek. 
 
 Burada yazar, bizi başımıza gelen zorlukları ve onları açıklama biçimimizi, bu açıklama biçimi sonucunda neler hissettiğimizi ve yaptığımızı kaydetmeye davet ediyor. Burada sonuçlarda dikkat etmemiz gereken şey olaylara getirdiğimiz pesimist açıklamaların pasiflik ve pes etmeyi doğurduğunu, optimist açıklamaların ise bize enerji verdiğini görebilmek. 
 
 Yazar, pesimizmden kopabilmek için 2 ana strateji öneriyor: 
-
 1.	Distraction (dikkat dağıtmak): Buradaki amaç beynimiz kısır döngüye girdiğinde bu halkayı kırmak için dikkatimizi başka bir şeye vermeye çalışmak. Kötü olayları olduğu anda yazmayı deneyebiliriz. Bunu yapmak için kitapta bazı taktikler verilmiş ama genel ana fikir kafamızı o an kurcalayan şeyden uzaklaşmaya çalışmak. 
 2.	Disputation (çekişmek, itiraz etmek, çürütmek- çürütmeyi seçiyorum): uzun vadede çürütme yöntemi daha etkili. Kafamızda oluşan olumsuz açıklamaları gerçek kanıtlarla çürütmeye çalışmak. Bunun için de 4 ana kalemde kafanızda bir tartışma ve ikna ortamı yaratmanız gerekiyor.
-
     *	Kanıt: Olumsuz bir düşünceyi çürütmenin en etkili yolu onun gerçek olmadığını ispatlamaktır. Çoğu zaman gerçekler sizin yanınızda olacaktır ve kendinize düşüncelerinizin sadece aşırı tepkiden ibaret olduğunu anlatabileceksiniz. Kafanıza gelen kötü düşünceyle kavga edin ve bu düşünceyi çürütebilmek için elimde ne kanıtlar var diye düşünmeye başlayın. 
-
     *	Alternatifler: Bir olayın birçok sebebi olabilir. Pesimist biriyseniz, bu sebeplerden en kötü olanına bağlanırsınız. Eğer birden fazla sebep olabilirse, neden en kötüsünü gerçekmiş gibi kabul ediyorsunuz? Fikirlerinizi çürütmek için, başınıza gelen olayın diğer sebeplerini arayın. Bir sınavda başarısız mı oldunuz? Değişebilecek sebeplere odaklanın -çalışmak için çok vaktim yoktu, spesifik sebeplere odaklanın- bu sınav aşırı zordu, ve kişisel olmayan sebeplere odaklanın - hoca çok acımasız notladı. Bu biraz çaba gerektirebilir. Fakat bu süreçte pesimistlerin en olumsuz açıklamaya yönelmelerinin sebebinin bu açıklamanın kanıtlarla desteklenmesi değil sadece en kötü sebep olduğu için buna bağlanmaları olduğunu unutmayın. 
-
     *	Çıkarımlar: Bazen kendi hakkımızda düşündüğümüz olumsuz fikirlerin gerçek bir dayanağı olabilir. Bu durumda yapmamız gereken, durumu felaketmiş gibi kabullenmemek ve bu durumun çıkarımları ne olabilir diye düşünmek. Örnek olarak, geç yaşta üniversite okumaya karar vermiş birisi sınıfının en yaşlısı olduğu için kimsenin onu işe almak istemeyeceğini düşünüyor. Bu durumda sınıfın en yaşlısı olduğu doğru, çürütülmesi imkansız. Fakat, diğer öğrencilerden yaşlı olması onun en başarısız veya en düşük zekalı olduğu anlamına gelmiyor. Ayrıca kimsenin onu işe almayacağı anlamına da gelmiyor. Kimsenin onu işe almayacağı ihtimali ne kadar? Gerçekliği var mı? 
     *	İşe yararlık: Düşündüğümüz olumsuz şey doğru olsa bile bu fikrin bize ne faydası var? Sürekli bunu düşünerek ne kazanabiliriz? Eğer bir fikir yıkıcıysa, doğru veya yanlış olmasına bakmazsızın o fikirden uzaklaşmamız gerekiyor. 
 
 ABC modeline iki harf daha ekleyip Disputation ve Energization, yani çürütme ve enerjik hale gelme adımları ekliyoruz. Disputation zaten yukarıda anlattığımız olumsuz fikirleri boşa çıkarma teknikleri. E adımı ise fikrimizi çürüttükten sonraki gerçeklikle yeni bir bakış açısı geliştirmek. 
 
 Sesleri dışsallaştırmak adında bir egzersiz tavsiye ediliyor. Bu egzersizde çok güvendiğiniz, karşısında kendinizi savunmada hissetmeyeceğiniz birini seçip, sizi eleştirmesini istiyorsunuz. Ve size yönelttiği her olumsuz eleştiriye bir cevap vermeye çalışıyorsunuz. Bu sayede kafanızın içinde yapmanız gereken çalışmayı kafanızdan dışarı çıkarıp gerçekte deniyorsunuz. 
-
 ## Bölüm 13 - Çocuklarınızın pesimizmden kaçmasına yardımcı olmak 
 Çocuklar pesimizmi öncelikle annelerinden, sonra ailedeki diğer büyüklerden, ve kendilerini eleştiren diğer yetişkinlerden öğrenirler. 
 
-Optimizmi öğrenmek, yukarıda anlattığımız ABC yöntemini çocuğunuza anlatarak mümkün. Çocuğunuza ABC modelini anlatın. Olaylar karşısındaki düşüncelerimizin, duygularımızı da etkilediğini ona anlatın. 
-
-Burada inanç (B) kısmı çok önemli. İnancımızı değiştirebilirsek, sonuçları da değiştirebiliriz. 
+Optimizmi öğrenmek, yukarıda anlattığımız ABC yöntemini çocuğunuza anlatarak mümkün. Çocuğunuza ABC modelini anlatın. Olaylar karşısındaki düşüncelerimizin, duygularımızı da etkilediğini ona anlatın. Burada inanç (B) kısmı çok önemli. İnancımızı değiştirebilirsek, sonuçları da değiştirebiliriz. 
 
 Çocuğunuza çürütme tekniğini anlatın. Çocuğun, olumsuz bir fikre sahip olmamızın o fikrin doğru olduğu anlamına gelmediğini öğretmemiz gerekiyor. Kafamızda oluşan herşeyin doğru olmadığını, onların tıpkı bir başka insandan geliyormuş gibi çürütülebileceğini öğretin. 
 
