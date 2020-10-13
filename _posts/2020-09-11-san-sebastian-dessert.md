@@ -59,6 +59,10 @@ Tabi ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi 
     *  Çorba gibi sıvı olmayacak fakat hafif salladığınızda bıngıl bıngıl oynayacak. 
 * Fırından aldıktan sonra biraz bekletip yemeden önce buzdolabında 24 saat dinlendiriyoruz. 
 
+<<<<<<< Updated upstream
 
+=======
+{% include gallery caption="San Sebastian'ımız pişti ve yenmeye hazır" %}
+>>>>>>> Stashed changes
 
 *Afiyet olsun*.
