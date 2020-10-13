@@ -111,6 +111,7 @@ Açıklama stiliyle birlikte gelen bir başka özellik de problemlerimiz üzerin
 İyi haber ise hem negatif açıklama stili hem de geviş getirme alışkanlığı cognitive therapy sayesinde düzeltilebilir. 
 ### Uzun sözün kısası depresyon şöyle bir yol izler: 
 >pesimizm => geviş getirme => depresyon
+
 ### Süreç de aşağıdaki gibidir: 
 1.	Karşısında çaresiz olduğunuzu hissettiğiniz bir tehditle karşılaşırsınız.
 2.	Bu tehditin sebebini aramaya başlarsınız ve sebep olarak sürekli, yaygın, ve kişisel bir açıklama bulursunuz.
