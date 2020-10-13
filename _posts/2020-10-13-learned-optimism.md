@@ -53,40 +53,60 @@ Kendi çabalarının sonuca ve kaderlerine bir etkisi olduğunu bilen köpekler 
 
 **Fakat çaresizliği bu şekilde öğrenmiş köpeklere tekrar tekrar ikinci kutuda şoktan nasıl kaçabilecekleri gösterilirse -onları tutup kutunun öbür tarafına defalarca atlatarak- kendi davranışlarının onları kurtarabileceğine olan inançları geri geliyor.** Ve bu şekilde bir kere eğitimden geçip öğrenen köpekler artık çaresizliğe karşı bir bağışıklık geliştiriyorlar. **Sonraki denemelerde başlarına ne gelirse gelsin hep mücadele etmeye başlıyorlar.**
 
-Yalnız bu deney sonucunda bazı noktalar tam olarak açıklanamıyor çünkü bu deney birçok köpekle yapıldığında görülüyor ki çaresizlik grubundaki (deneydeki ikinci grup) köpeklerin üçte biri çaresizliğe hiçbir zaman teslim olmuyor ve mücadeleyi hep sürdüyor. Öte yandan şok görmeyen kontrol grubundaki deneklerden 10 da 1'i kaçmayı hiç denemiyor. Yani başından beri zaten öğrenilmiş çaresizlik içindeler. Bu deneyin benzerleri insanlar üzerinde yapıldığında da sonuç aynı. 2. grubun üçte biri doğuştan mücadeleci, kontrol grubunun onda biri doğuştan çaresiz. Bu da bizi açıklama stili (explanatory style) konusuna getiriyor. 
-Bölüm 3- Talihsizlikleri Açıklamak  (explaining misfortune) 
-Deneydeki yukarıda belirttiğimiz tutarsızlıkları açıklayabilmek için yazarımız yine yıllarca birçok deney yapıyor ve en sonunda explanatory style -açıklama stili- diye bir bileşen daha yaratıyor. Bu, kısaca başımıza gelen kötü olayları kafamızda çözümlerken kendimize anlattığımız hikayelerin karakteri demek. Zorluklar karşısında çabuk toparlanıp mücadeleye devam etmek ile hemen yelkenleri suya indirip depresyona girmek arasındaki seçimimizi belirleyen açıklama stilimiz. 
-Kimler mücadeleyi bırakmaz? Açıklama stilimizin 3 önemli bileşeni var. 
-1.	Süreklilik (Permanence): Mücadeleyi hemen bırakan insanlar başlarına gelen şeylerin sürekli olacağını, hiç geçmeyeceğine inanır. Mücadeleye devam edenler ise başlarına gelen herşeyin geçici olduğunu ve sadece o anki duruma ait olduğuna inanır. 
-2.	Yayılmışlık (?) (Pervasiveness): Başarısızlıkları hakkın evrensel ve genel açıklamalar yapan insanlar hayatlarının bir alanındaki bir başarısızlık sonrasında hayatlarının tüm alanlarındaki mücadeleyi bırakırlar. Durumlar hakkında spesifik açıklamalar yapan insanlar ise hayatlarının bir alanında başarısızlık yaşayıp kendilerini o alanda çaresiz hissetseler bile bu çaresizliklerini hayatlarının diğer alanına taşırmamayı başarırlar. 
-3.	Kişiselleştirme (Personalization) : Başımıza gelen kötü olaylardan kendimizi sorumlu tutabiliriz veya başkalarını ve dışsal olayları sorumlu tutabiliriz. Kendini sorumlu tutan insanlar kendilerine güvenlerini kaybederler. 
+Yalnız bu deney sonucunda bazı noktalar tam olarak açıklanamıyor çünkü bu deney birçok köpekle yapıldığında görülüyor ki çaresizlik grubundaki (deneydeki ikinci grup) köpeklerin üçte biri çaresizliğe hiçbir zaman teslim olmuyor ve mücadeleyi hep sürdüyor. Öte yandan şok görmeyen kontrol grubundaki deneklerden 10 da 1'i kaçmayı hiç denemiyor. Yani başından beri zaten öğrenilmiş çaresizlik içindeler. Bu deneyin benzerleri insanlar üzerinde yapıldığında da sonuç aynı. 2. grubun üçte biri doğuştan mücadeleci, kontrol grubunun onda biri doğuştan çaresiz. Bu da bizi **açıklama stili (explanatory style)** konusuna getiriyor. 
+
+## Bölüm 3- Talihsizlikleri Açıklamak  (explaining misfortune) 
+
+Deneydeki yukarıda belirttiğimiz tutarsızlıkları açıklayabilmek için yazarımız yine yıllarca birçok deney yapıyor ve en sonunda explanatory style -açıklama stili- diye bir bileşen daha yaratıyor. Bu, kısaca başımıza gelen kötü olayları kafamızda çözümlerken kendimize anlattığımız hikayelerin karakteri demek. Zorluklar karşısında çabuk toparlanıp mücadeleye devam etmek ile hemen yelkenleri suya indirip depresyona girmek arasındaki seçimimizi belirleyen şey açıklama stilimiz. 
+
+### Kimler mücadeleyi bırakmaz?
+
+Açıklama stilimizin 3 önemli bileşeni var. 
+1.	**Süreklilik (Permanence):** Mücadeleyi hemen bırakan insanlar başlarına gelen şeylerin sürekli olacağını, hiç geçmeyeceğine inanır. Mücadeleye devam edenler ise başlarına gelen herşeyin geçici olduğunu ve sadece o anki duruma ait olduğuna inanır. 
+
+2.	**Yayılmışlık (?) (Pervasiveness):** Başarısızlıkları hakkın evrensel ve genel açıklamalar yapan insanlar hayatlarının bir alanındaki bir başarısızlık sonrasında hayatlarının tüm alanlarındaki mücadeleyi bırakırlar. Durumlar hakkında spesifik açıklamalar yapan insanlar ise hayatlarının bir alanında başarısızlık yaşayıp kendilerini o alanda çaresiz hissetseler bile bu çaresizliklerini hayatlarının diğer alanına taşırmamayı başarırlar. 
+
+3.	**Kişiselleştirme (Personalization)** : Başımıza gelen kötü olaylardan kendimizi sorumlu tutabiliriz veya başkalarını ve dışsal olayları sorumlu tutabiliriz. Kendini sorumlu tutan insanlar kendilerine güvenlerini kaybederler. 
+
 Bu üç nokta kitaptan çıkarılacak önemli derslerden birisi. Açıklama stilimiz sürekli, yaygın ve kişisel ise bu bizi pesimist yapıyor. Örnek: ben hiç adam olmayacağım, hep aynı salaklığı yapıyorum. Beceriksizin tekiyim o yüzden bu bardağı kırdım. Herşeyi de kırıyorum zaten. Açıklama stilimiz geçici, spesifik ve dışsal ise bu bizi optimist yapıyor. Örnek: Ahmet bardağı ıslak bırakmış o yüzden elimden kaydı ve kırıldı. 
-Kitabın bu bölümünde bir de optimizm/pesimizm miktarımızı bu 3 eksende değerlendiren bir test var. 
+
+*Kitabın bu bölümünde bir de optimizm/pesimizm miktarımızı bu 3 eksende değerlendiren bir test var.*
+
 Araştırmalar gösteriyor ki eğer açıklama stilimiz pesimist ise hayatımızda aşağıdaki problemlerle sürekli karşılaşıyoruz.
 1.	Kolayca depresyona girmek
 2.	Potansiyelimize ulaşamamak
 3.	Sağlık ve bağışıklık sistemi problemleri 
 4.	Hayattan daha az zevk almak 
-Bölüm 4- Aşırı Pesimizm 
+
+## Bölüm 4- Aşırı Pesimizm 
+
 Pesimist ve melankolik bir durumdayken, aslında depresyonun hafif bir halini geçiriyoruz. Depresyon, aslında pesimizmin aşırı ve kontrolden çıkmış hali olarak düşünülebilir. Depresyon üç tip olarak kabul ediliyor. 
-1.	Normal depresyon: Başımıza gelen veya etrafta tanık olduğumuz kötü olaylara tepki olarak kendimizi kötü ve depresif hissederiz fakat bir süre sonra bu durumdan çıkarız. Herhangi bir zamanda insanlığın 25%'i bu ruh hali içindedir. 
-2.	Bipolar depresyon: Diğer depresyonlara kıyasla genetik boyutu çok ağır basan bir depresyon çeşididir. Manik ve depresif iki kutup arasında seyreder. Bu tip depresyon ilaç tedavisine çok iyi yanıt verir. Bu depresyonu bir hastalık gibi düşünüp ona göre tedavi ederiz. 
-3.	Unipolar depresyon: Bipolardan farklı olarak manik ekseni olmayan depresyon cinsidir. Yazarımız burada kabul görmüş tıbbi geleneklerden uzaklaşarak normal ve unipolar depresyonun aslında aynı durumun şiddeti farklı olan halleri olduğunu iddia ediyor. 
 
-Bir kimsenin unipolar depresyon tanısı koyulması için gereken özelliklerinin aslında normal depresyondan daha farklı olmadığını, sadece daha şiddetli hale geldiği için insanların daha çok yardım aradığını, bu şekilde de doktorlara gittiğinde bu tanıya maruz kaldıklarını iddia ediyor. 
-Depresyon semptomları 
-1.	Düşünce yapısında değişiklik : depresyondaki insanlar farklı şekilde düşünmeye başlarlar. Çok başarılı bir şekilde bitirdikleri bir projeyi bile bir başarısızlık olarak görebilirler. Pesimist açıklama stili (bkz. Bölüm 3), depresif düşüncenin temelinde yatar. 
-2.	Ruh halindeki değişiklik : Kendimiz kötü hissederiz. Cesaretimizi kaybederiz. Daha önce eğlenerek yaptığımız eylemler bize zevk vermemeye başlar. Bu durum sabah ilk uyandığımızda en fazladır. Gün içinde azalır, saat 3-6 arasında tekrar kötüleşir, gece biraz daha iyileşir. Fakat en kötü hali eğer uyanıksanız sabaha karşı 3-5 arasıdır. 
-3.	Davranış değişikliği : Pasiflik, kararsızlık. En rutin yaptığımız şeylere bile başlayamamak, en basit işleri bile yaparken karşılaştığımız en ufak bir engelde pes etmek. Alternatifler arasında seçim yapamamak. 
-4.	Fiziksel semptomlar : İştah bozukluğu, cinsel isteksizlik, sabaha karşı uyanıp tekrar uykuya dalamamak. 
+1.	**Normal depresyon:** Başımıza gelen veya etrafta tanık olduğumuz kötü olaylara tepki olarak kendimizi kötü ve depresif hissederiz fakat bir süre sonra bu durumdan çıkarız. Herhangi bir zamanda insanlığın 25%'i bu ruh hali içindedir. 
+2.	**Bipolar depresyon:** Diğer depresyonlara kıyasla genetik boyutu çok ağır basan bir depresyon çeşididir. Manik ve depresif iki kutup arasında seyreder. Bu tip depresyon ilaç tedavisine çok iyi yanıt verir. Bu depresyonu bir hastalık gibi düşünüp ona göre tedavi ederiz. 
+3.	**Unipolar depresyon:** Bipolardan farklı olarak manik ekseni olmayan depresyon cinsidir. Yazarımız burada kabul görmüş tıbbi geleneklerden uzaklaşarak normal ve unipolar depresyonun aslında aynı durumun şiddeti farklı olan halleri olduğunu iddia ediyor. 
 
-Not: Bu bölümde de depresyonumuzun miktarını ölçmek için bir test sunuluyor. 
+Yazar, bir kimsenin unipolar depresyon tanısı koyulması için gereken özelliklerinin aslında normal depresyondan daha farklı olmadığını, sadece daha şiddetli hale geldiği için insanların daha çok yardım aradığını, bu şekilde de doktorlara gittiğinde bu tanıya maruz kaldıklarını iddia ediyor. 
+
+### Depresyon semptomları 
+1.	**Düşünce yapısında değişiklik:** depresyondaki insanlar farklı şekilde düşünmeye başlarlar. Çok başarılı bir şekilde bitirdikleri bir projeyi bile bir başarısızlık olarak görebilirler. Pesimist açıklama stili (bkz. Bölüm 3), depresif düşüncenin temelinde yatar. 
+2.	**Ruh halindeki değişiklik:** Kendimiz kötü hissederiz. Cesaretimizi kaybederiz. Daha önce eğlenerek yaptığımız eylemler bize zevk vermemeye başlar. Bu durum sabah ilk uyandığımızda en fazladır. Gün içinde azalır, saat 3-6 arasında tekrar kötüleşir, gece biraz daha iyileşir. Fakat en kötü hali eğer uyanıksanız sabaha karşı 3-5 arasıdır. 
+3.	**Davranış değişikliği:** Pasiflik, kararsızlık. En rutin yaptığımız şeylere bile başlayamamak, en basit işleri bile yaparken karşılaştığımız en ufak bir engelde pes etmek. Alternatifler arasında seçim yapamamak. 
+4.	**Fiziksel semptomlar:** İştah bozukluğu, cinsel isteksizlik, sabaha karşı uyanıp tekrar uykuya dalamamak. 
+
+*Bu bölümde de depresyonumuzun miktarını ölçmek için bir test sunuluyor.*
+
 Daha sonra yıllar boyunca yapılan tüm çalışmaların tartışmasız şekilde depresyonun zamanla arttığını gösterdiği anlatılıyor. Aynı zamanda yazarımızın yaptığı araştırmalar sonucunda edindiği izlenim, öğrenilmiş çaresizlik ile depresyonun benzer semptomlar gösterdiği. Yukarıda bahsedilen köpek deneyine benzer birçok deney yapılıyor hem hayvanlar hem insanlar üzerinde. İnsanlar üzerinde yapılan deney hayvanlarınkine benzer. Denekler çok gürültülü bir odaya sokuluyor ve önlerindeki kontrol panelini kullanarak sesi azaltmaları isteniyor. Bir grubun kontrol panelinde kolay bir kombinasyon bulunduğu anda ses azalırken diğer grubun panelinde denek ne yaparsa yapsın ses kısılmıyor. Yaptığı hareketlerin hiçbir işe yaramadığına inanan insanlar çaresizliği öğreniyorlar ve sonradan verilen zihin egzersizlerinde çaresiz olmayan gruba kıyasla daha başarısız oluyor. Hatta birçoğu çözmeye yeltenmiyor bile veya çok erken bir sürede pes ediyor. 
+
 Öğrenilmiş çaresizlik semptomları bundan başka şekillerde de yaratılabiliyor. Örneğin yenilgi ve başarısızlık da benzer semptomlara sebep olabiliyor. Bir farenin başka bir fareye kavgada yenilmesi ile kaçamadığı bir elektrik şokuna maruz kalması aynı çaresizlik hissini yaratıyor. 
+
 Ve en önemlisi, öğrenilmiş çaresizlik semptomları, kişi eğer eylemlerinin sonuca bir etkisi olduğunu görüp ona inanmaya başlarsa kayboluyor. Çaresizliği kaybetmenin yollarından birisi de kişiye çaresizliğine yol açan olayın sebebini farklı bir şekilde açıklamayı öğretmek. Eylemlerinizin kaderinize etki ettiğine olan inancınızı hayatınızın ne kadar erken bir zamanında öğrenirseniz çaresizliğe karşı bağışıklığınız da o kadar kuvvetli oluyor. 
-Bütün çaresizlik deneyleri gösteriyor ki öğrenilmiş çaresizlik semptomları neredeyse birebir olarak depresyon semptomlarıyla örtüşüyor. Hatta depresyona yardımcı olan ilaçlar öğrenilmiş çaresizlik denekleri üzerinde kullanıldığında çaresizliklerine de yardımcı oluyor. Bu açıdan dünyamızda son yıllarda görülen depresyon salgınını aslında bir öğrenilmiş çaresizlik salgını olarak düşünebiliriz. 
-Bölüm 5 - Hislerin ve Duyguların 
-Yazarımızın iddiası: depresyon, semptomlarından başka bir şey değildir. Depresyonun semptomlarının altında derin manalar aramak, çocukluğa inmek derin psikanalizler yapmanın manası yoktur. Depresyonun sebebi, bilinçli olumsuz düşüncelere sahip olmaktır. Depresyon, yıllar süresince edinilmiş olumsuz düşünce alışkanları yüzünden başlar. Eğer bu alışkanlıkları değiştirebilirsek, depresyon da ortadan kalkacaktır. Bu fikirle COGNITIVE THERAPY doğdu. 
+
+Bütün çaresizlik deneyleri gösteriyor ki öğrenilmiş çaresizlik semptomları neredeyse birebir olarak depresyon semptomlarıyla örtüşüyor. Hatta depresyona yardımcı olan ilaçlar öğrenilmiş çaresizlik denekleri üzerinde kullanıldığında çaresizliklerine de yardımcı oluyor. Bu açıdan dünyamızda son yıllarda görülen depresyon salgınını aslında bir öğrenilmiş çaresizlik salgını olarak düşünebiliriz.
+
+## Bölüm 5 - Hislerin ve Duyguların 
+**Yazarın iddiası:** depresyon, semptomlarından başka bir şey değildir. Depresyonun semptomlarının altında derin manalar aramak, çocukluğa inmek derin psikanalizler yapmanın manası yoktur. Depresyonun sebebi, bilinçli olumsuz düşüncelere sahip olmaktır. **Depresyon, yıllar süresince edinilmiş olumsuz düşünce alışkanları yüzünden başlar.** Eğer bu alışkanlıkları değiştirebilirsek, depresyon da ortadan kalkacaktır. Bu fikirle **COGNITIVE THERAPY** doğdu.
+ 
 Problemlerimiz hakkındaki düşünce biçimimiz depresyonu arttırabilir veya azaltabilir. Yenilgi veya başarısızlık kendimizi anlık olarak çaresiz hissettirecektir, fakat açıklama stilimiz pesimist ise bu bir anda bizi çok derin bir depresyona sokabilir. Öte yandan açıklama stilimiz optimist ise depresyonumuz azalarak sönümlenecektir. 
 Açıklama stiliyle birlikte gelen bir başka özellik de problemlerimiz üzerinde çok düşünüp gereksiz analizler yapmak- psikologlar bu davranışı geviş getirmek (rumination) olarak tanımlamış. Geviş getirme ve negatif açıklama stili depresyonun reçetesi. 
 İyi haber ise hem negatif açıklama stili hem de geviş getirme alışkanlığı cognitive therapy sayesinde düzeltilebilir. 
