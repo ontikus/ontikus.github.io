@@ -1,5 +1,5 @@
 ---
-title: "The Power of Habit"
+title: "Learned optimism"
 published: true
 excerpt_separator: "<!--more-->"
 categories:
