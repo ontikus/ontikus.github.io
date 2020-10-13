@@ -1,6 +1,6 @@
 ---
 title: "The Power of Habit"
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -11,6 +11,14 @@ tags:
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
+Bu özet umduğumdan çok uzun oldu. Fakat kitap bilimsel verilere dayandığı için normalde okuduğunuz self-help (kişisel gelişim) kitaplarından çok farklı. Anlatılan her nokta yıllar süren deneylerle desteklenmiş. 
+
+* 1 - 6. bölüm yazarın öğrenilmiş çaresizlik kavramını ortaya atmasının altında yatan bilimsel temelleri açıklıyor. 
+
+* 6 - 11. bölüm yukarıda anlatılan konsepti okul, işyeri, çocukluk dönemi, spor, gibi spesifik alanlara uyguluyor. Bu bölümlerin bazılarını kısaca özetleyip hızlı geçtim. 
+
+* 12 ve 13. bölümler ise öğrenilmiş çaresizlikten hem kendimizi hem çocuklarımızı kurtarmak için kullanabileceğimiz pratik çözümlere değiniyor.
+
 
 [Learned Optimism: How to Change Your Mind and Your Life](https://books.google.com/books?id=qreACUdDAc0C) by [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman) kitabının kısa bir özeti. 
 
@@ -105,50 +113,72 @@ Ve en önemlisi, öğrenilmiş çaresizlik semptomları, kişi eğer eylemlerini
 Bütün çaresizlik deneyleri gösteriyor ki öğrenilmiş çaresizlik semptomları neredeyse birebir olarak depresyon semptomlarıyla örtüşüyor. Hatta depresyona yardımcı olan ilaçlar öğrenilmiş çaresizlik denekleri üzerinde kullanıldığında çaresizliklerine de yardımcı oluyor. Bu açıdan dünyamızda son yıllarda görülen depresyon salgınını aslında bir öğrenilmiş çaresizlik salgını olarak düşünebiliriz.
 
 ## Bölüm 5 - Hislerin ve Duyguların 
-**Yazarın iddiası:** depresyon, semptomlarından başka bir şey değildir. Depresyonun semptomlarının altında derin manalar aramak, çocukluğa inmek derin psikanalizler yapmanın manası yoktur. Depresyonun sebebi, bilinçli olumsuz düşüncelere sahip olmaktır. **Depresyon, yıllar süresince edinilmiş olumsuz düşünce alışkanları yüzünden başlar.** Eğer bu alışkanlıkları değiştirebilirsek, depresyon da ortadan kalkacaktır. Bu fikirle **COGNITIVE THERAPY** doğdu.
- 
-Problemlerimiz hakkındaki düşünce biçimimiz depresyonu arttırabilir veya azaltabilir. Yenilgi veya başarısızlık kendimizi anlık olarak çaresiz hissettirecektir, fakat açıklama stilimiz pesimist ise bu bir anda bizi çok derin bir depresyona sokabilir. Öte yandan açıklama stilimiz optimist ise depresyonumuz azalarak sönümlenecektir. 
-Açıklama stiliyle birlikte gelen bir başka özellik de problemlerimiz üzerinde çok düşünüp gereksiz analizler yapmak- psikologlar bu davranışı geviş getirmek (rumination) olarak tanımlamış. Geviş getirme ve negatif açıklama stili depresyonun reçetesi. 
-İyi haber ise hem negatif açıklama stili hem de geviş getirme alışkanlığı cognitive therapy sayesinde düzeltilebilir. 
-Uzun sözün kısası depresyon şöyle bir yol izler: pesimizm => geviş getirme => depresyon 
-Süreç de aşağıdaki gibidir: 
-1.	Karşısında çaresiz olduğunuzu hissettiğiniz bir tehditle karşılaşırsınız
-2.	Bu tehditin sebebini aramaya başlarsınız ve sebep olarak sürekli, yaygın, ve kişisel bir açıklama bulursunuz 
-3.	Gelecekteki benzer durumlarda da çaresiz olacağınıza inanırsınız ve öyle de olursunuz 
 
-Cognitive therapy bu sorunu nasıl çözüyor? 
+**Yazarın iddiası:** depresyon, semptomlarından başka bir şey değildir. Depresyonun semptomlarının altında derin manalar aramak, çocukluğa inmek derin psikanalizler yapmanın manası yoktur. Depresyonun sebebi, bilinçli olumsuz düşüncelere sahip olmaktır. **Depresyon, yıllar süresince edinilmiş olumsuz düşünce alışkanları yüzünden başlar.** Eğer bu alışkanlıkları değiştirebilirsek, depresyon da ortadan kalkacaktır. Bu fikirle **COGNITIVE THERAPY** doğdu.
+
+Problemlerimiz hakkındaki düşünce biçimimiz depresyonu arttırabilir veya azaltabilir. Yenilgi veya başarısızlık kendimizi anlık olarak çaresiz hissettirecektir, fakat açıklama stilimiz pesimist ise bu bir anda bizi çok derin bir depresyona sokabilir. Öte yandan açıklama stilimiz optimist ise depresyonumuz azalarak sönümlenecektir. 
+
+Açıklama stiliyle birlikte gelen bir başka özellik de problemlerimiz üzerinde çok düşünüp gereksiz analizler yapmak- psikologlar bu davranışı *geviş getirmek (rumination)* olarak tanımlamış. Geviş getirme ve negatif açıklama stili depresyonun reçetesi. 
+
+İyi haber ise hem negatif açıklama stili hem de geviş getirme alışkanlığı cognitive therapy sayesinde düzeltilebilir. 
+
+### Uzun sözün kısası depresyon şöyle bir yol izler: 
+>pesimizm => geviş getirme => depresyon
+
+### Süreç de aşağıdaki gibidir: 
+1.	Karşısında çaresiz olduğunuzu hissettiğiniz bir tehditle karşılaşırsınız.
+2.	Bu tehditin sebebini aramaya başlarsınız ve sebep olarak sürekli, yaygın, ve kişisel bir açıklama bulursunuz.
+3.	Gelecekteki benzer durumlarda da çaresiz olacağınıza inanırsınız ve öyle de olursunuz.
+
+### Cognitive therapy bu sorunu nasıl çözüyor? 
 1.	Otomatik olarak kafanızda oluşan pesimist düşüncelerin farkında olmayı öğren 
 2.	Kafanızda bu olumsuz düşünceleri ve yargıları çürütmek için kanıtlar aramayı öğren
 3.	Otomatik düşünceler hakkında alternatif açıklamalar bulun. Bu düşünceleri daha az sürekli, daha az yaygın ve daha az kişisel hale getir 
 4.	Depresif fikirlerden kendini uzaklaştırmayı öğren 
 5.	Depresyon tohumu eken varsayımları tanıyıp onları sorgulamayı ve çürütmeyi öğren 
 
-Burada sürekli, yaygın ve kişisel demekle ne kastediyoruz bir kaç örnek daha verelim. 
-Örnek: Sevdiğiniz kişi tarafından reddedildiniz. 
-⦁	Yaygın: Kadınlar benden nefret ediyor 
-⦁	Sürekli: Bir daha kimseyi bulamayağım 
-⦁	Kişisel: Sevilecek hiçbir tarafım yok - yaygın ve sürekliye kişiseli de eklediğimiz zaman depresyona girmekle kalmayız özgüvenimizi de zedelemiş oluruz 
+Burada sürekli, yaygın ve kişisel demekle ne kastediyoruz bir örnek daha verelim. 
 
-Kitapta tekrar tekrar neredeyse her bölümde kafamıza sokulmaya çalışan şey başımıza gelen kötü olayları yaygın, sürekli ve kişisel bir şekilde açıklıyorsak bu depresyona uzanan yoldur. Bunun yerine spesifik, geçici ve dışsal açıklamalar yapıyorsak depresyona girmeyiz ve sorunlardan daha çabuk sıyrılırız. 
-Bölüm 6 - İşyerinde başarı 
+### Örnek: Sevdiğiniz kişi tarafından reddedildiniz. 
+* Yaygın: Kadınlar benden nefret ediyor. 
+* Sürekli: Bir daha kimseyi bulamayacağım. 
+*	Kişisel: Sevilecek hiçbir tarafım yok - yaygın ve sürekliye kişiseli de eklediğimiz zaman depresyona girmekle kalmayız özgüvenimizi de zedelemiş oluruz.
+
+Kitapta tekrar tekrar neredeyse her bölümde kafamıza sokulmaya çalışan şey başımıza gelen kötü olayları **yaygın, sürekli ve kişisel** bir şekilde açıklıyorsak bu depresyona uzanan yoldur. Bunun yerine **spesifik, geçici ve dışsal** açıklamalar yapıyorsak depresyona girmeyiz ve sorunlardan daha çabuk sıyrılırız. 
+
+## Bölüm 6 - İşyerinde başarı 
 Yazarımızın danışmanlık verdiği alanlardan birisi de sigorta şirketleri olmuş. Sigorta şirketlerinin satış bölümünde çalışanların sürekli tanımadıkları insanlara telefon edip onları sigorta almaya ikna etmeye çalıştıkları bir işi var. Bu da yılmamak, kötü tepkiler gördükten sonra bile bir sonraki telefon görüşmesini yapmaya devam etmeyi gerektiriyor. Sigorta şirketlerinin satış bölümlerinde sürekli personel değişiyor, birçok kişi işi bırakıyor, bu da sigorta şirketlerine her yıl büyük masraflar açıyor. 
+
 Tahmin edersiniz ki yukarıda belirttiğimiz teorimizi buraya oturtursak optimistlerve pesimistler,  birisi telefonu yüzüne kapattığında bu olayı farklı açılardan yorumladıkları için optimistlerin bir sonraki aramaya yapma ihtimalleri pesimistlerden daha fazla. Şirket içinde yapılan optimizm/pesimizm testleri de bunu doğruluyor. En başarılı satış elemanları tutarlı bir şekilde testlerde optimist çıkıyorlar, başarısızlar da pesimist. 
+
 Bir insanın başarılı olması için genel olarak kabul görmüş iki özelliğe sahip olması gerektiği söylenir: kapasite ve motivasyon. Yazarımız burada üçüncü bir özelliğin olması gerektiğini savunuyor: optimist açıklama stili. Mozart kadar yetenekli ve istekli bir besteci bile eğer doğru besteyi yapana kadar sabırla denemeyip yılarsa, hiçbir başarıya ulaşamaz. 
+
 Bu deneyleri yaptıktan sonra yazar, danışmanlık yaptığı sigorta şirketi için bir optimizm testi yaratıyor ve sigorta şirketi işe alımlarda da bu testi kullanmaya başlıyor. 
-Peki, bir işyerinde veya genel olarak hayatta pesimizmin hiç mi yeri yok? Pesimizim, hayatımızın birçok yerinde ihtiyaç duyduğumuz realizmi bize sağlayabilir. Ayrıca, bazı durumlarda -mesela bir uçak kokpitinin içinde- olayları optimizmle değil gerçek şekliyle açıklayacak insanları isteriz. Bu bakımdan şirketin her pozisyonunu optimistlerle doldurmak şirketin başarısına katkıda bulunmayabilir. Finans, planlama, güvenlik, üst yönetim gibi yerlerde hayalperestler değil gerçekçiler bulunmalı. Pesimistler, optimistlerden daha bilge olabilir. 
+
+### Peki, bir işyerinde veya genel olarak hayatta pesimizmin hiç mi yeri yok? 
+Pesimizim, hayatımızın birçok yerinde ihtiyaç duyduğumuz realizmi bize sağlayabilir. Ayrıca, bazı durumlarda -mesela bir uçak kokpitinin içinde- olayları optimizmle değil gerçek şekliyle açıklayacak insanları isteriz. Bu bakımdan şirketin her pozisyonunu optimistlerle doldurmak şirketin başarısına katkıda bulunmayabilir. Finans, planlama, güvenlik, üst yönetim gibi yerlerde hayalperestler değil gerçekçiler bulunmalı. Pesimistler, optimistlerden daha bilge olabilir. 
+
 Yapılan bir deneyde, deneklere odanın ışık sistemiyle ilgili değişen seviyelerde kontrol şansı veriliyor. Bazı insanlar istedikleri gibi kontrol edebiliyorlar başka gruplar daha az, bazı grupların da ne yaparlarsa yapsınlar kontrolu olmuyor. Daha sonra da deneklere ışığı ne kadar kontrol edebildiklerini düşündükleri soruluyor. Sonuçlara göre optimistler, gerçekte kontrol edebildiklerinden çok daha fazla kontrole sahip olduklarını düşünüyorlar. Pesimistler ise ellerindeki kontrolü gerçeğe çok daha yakın tahmin ediyorlar. 
+
 Pesimistlerin optimistlerden daha bilge olduğuna dair bir başka bulgu ise kişinin kendi yetenekleri hakkında düşündükleri. Optimisler kendi yetenekleri, güzellikleri, ve başka özellikleri konusunda tutarlı bir şekilde olduklarından daha iyi olduklarını düşünüyorlar. Depresif ve pesimist insanlar ise kendileri hakkında gerçeğe çok daha yakın değerlemeler yapıyorlar. 
-Bu bölümün kısa özeti: hayatımızda pesimizmin de bir yeri var. Riskleri doğru analiz edip daha dikkatli olmamız gereken durumlar pesimizm gerektirir. 
+
+**Bu bölümün kısa özeti:** hayatımızda pesimizmin de bir yeri var. Riskleri doğru analiz edip daha dikkatli olmamız gereken durumlar pesimizm gerektirir. 
 Pesimistler dünyayı olduğu gibi görürken, optimistler kendi amaçları doğrultusunda gerçeği değiştirip kendilerini ikna edebiliyorlar. 
-Bölüm 7- Çocuklar ve ebeveynler: Optimizmin kaynağı 
-Not: Bu bölüm, çocuğunuza uygulayabileceğiniz bir optimizm/pesimizm testi sunuyor. 
+
+## Bölüm 7- Çocuklar ve ebeveynler: Optimizmin kaynağı 
+
+*Bu bölüm, çocuğunuza uygulayabileceğiniz bir optimizm/pesimizm testi sunuyor.*
+
 Ergenlik çağı öncesinde kız çocukları, erkeklerden daha optimistler. Yetişkin hayatta ise bu tersine dönüyor ve depresyon/pesimizm kadınlarda daha yaygın hale geliyor. Ortalamaya baktığımızda da çocuklar, yetişkinlere kıyasla çok daha optimistler. Yine de çocuklar da depresyona girebiliyorlar. Fakat çocuk depresyonunun yetişkin depresyonundan iki büyük farkı var: çocuklar umutsuzluğa kapılmıyor ve intihar etmiyorlar. Depresyonun bileşenlerinden biri olan umutsuzluk, intiharı öngörebilen en önemli bileşen. Potansiyel olarak intihar edebilecek insanların ortak özelliği, yaşadıkları durumun hayatlarının sonuna kadar ve yaptıkları herşeyde aynı şekilde devam edeceğini düşünmeleri. 
+
 Çocukların bu avantajlarına rağmen, yine de bazı çocuklar depresyona diğer çocuklardan daha meyilli. Açıklama stili genç yaşta şekillenmeye başlıyor. 8 yaş kadar küçük bir yaşta bile açıklama stilinin artık sabit hale gelecek bir şekil aldığını görebiliyoruz. 
-Çocukların açıklama stiliyle ilgili üç hipotez var: 
+
+### Çocukların açıklama stiliyle ilgili üç hipotez var: 
 1.	Annenin açıklama stili: çocuklar velilerinin -genel olarak annelerinin- açıklama stilini benimserler. 
 2.	Diğer yetişkinlerden gelen eleştiriler: Özellikle öğretmenlerin, istenmeyen davranışlarda bulunan çocuklara yönelttiği eleştirilerin tarzı, çocuğun açıklama stilini etkiler. Bu eleştiriler eğer sürekli (permanent-sen beceriksizsin) ve yaygın (hiçbir şeyi yapamıyorsun) ise çocuk pesimist olabilir. 
 3.	Çocukların hayatlarındaki krizler: boşanma, finansal zorluklar, büyük kardeşin evden ayrılması, vb. gibi travmalar ve anne babanın çok kavga ettiği evler. 
 Çocuklarla ilgili önemli birkaç not var. Ebeveynlerin çok kavga ettiği evlerde büyüyen çocuklarla anne baba ayrılığı yaşayan çocuklar benzer depresiflik gösteriyorlar. Fakat bazı çalışmalar iddia ediyor ki anne babanın kavga ettikten sonra barıştığını da görürse o zaman daha az etkilenebiliyor. Ama bu çalışmaya çok güvenemedim. 
+
 Bu arada bu bölümde aynı zamanda kadınların küçükken mutlu olup yetişkin hayata geçtiklerinde neden depresif olduklarına dair bazı tezler öne sürüyor. Çok uzun anlatmayacağım merak edenler kitabı alıp okusun. Kadınları depresyondan koruyan 3 faktör tespit edilmiş. 
 1.	Bir eş veya sevgiliyle yakın ve sağlıklı bir ilişki. 
 2.	Ev dışında bir iş sahibi olmak. 
@@ -157,81 +187,113 @@ Bu arada bu bölümde aynı zamanda kadınların küçükken mutlu olup yetişki
 Kadınları depresyona sürükleyen en önemli 2 faktör ise: 
 1.	Yakın zamanda yaşanan bir kayıp -eşin ölümü, çocuklarının evden taşınması, vb. Burada kadınların, çocuklarının başka bir yere göçmesini çocuklarının ölümü gibi hissettiklerinden bahsediyor. 
 2.	Teen yaşlarına erişmeden annesinin ölümü 
-Bölüm 8 - Okul
+
+## Bölüm 8 - Okul
 Çocuğunuz okulda başarısız ise, bunu kapasite yetersizliğine bağlamak çok kolay. Çocuğunuz hem sizde hem öğretmende olan bu düşünceyi hissedip kendi hakkındaki düşüncelerine bu fikirleri karıştırmaya başlar. Ve birkaç başarısızlıktan sonra kendi pesimist açıklama stilini oluşturup bunu kabullenir. Daha sonra bu açıklama stili yüzünden tekrar başarısızlık yaşar, ve kısır bir döngü içinde kötüye gider. 
 Aslında kitabın çoğunda tekrar edildiği gibi burada da çocuğunuzun açıklama stilindeki sürekli, yaygın ve kişisel kısımları tespit edip, onları değiştirmesini sağlamaya çalışmak gerekiyor. 
-Not: Bu bölümde çocuğunuzun depresyonunu ölçmek için bir test var. 
-Optimist veya pesimist çocuklar üzerinde yapılan deneylerde, başarıszlık öncesinde iki grubun da başarısı aynı iken, başarısızlık sonrasında optimistler ve pesimistler ayrılıyor. Pesimistlerin yetenekleri hızlı bir düşüş yaşıyor ve 2-3 sınıf aşağıda yaptıkları işlemleri bile yapamaz hale geliyorlar. Hatta oyunun sonlarına doğru tekrar başarılı olduklarında bu sefer başarılarını önemsiz görmeye başlıyorlar. Ve geleceğe doğru öngörüde bulunduklarında, biraz önce 100% başarıyla çözdükleri soruların gelecekte ancak yarısını doğru çözebileceklerini belirtiyorlar. Bir çocuk ne yaparsa yapsın başaramayacağını düşünmeye başladığı anda notları hızla kötüleşiyor. 
-Bir okulla birlikte yıllar sürecek bir proje başlatıp 200 çocuğu izliyor yazarımız. Beklendiği gibi, ileriki yaşlardaki depresyonu en iyi gösteren faktör çocuk yıllardaki depresyon. Çalışma sonucunda varılan ise pesimist açıklama stili ve çocukların başına gelen talihsiz olayların depresyona götüren en önemli iki risk faktörü olduğu. 
-⦁	Çocuk 3. sınıfa pesimist bir açıklama stiliyle başladıysa fakat depresyonda değilsen, zaman geçtikçe depresif oluyor
-⦁	Eğer pesimist olarak başladıysa ve depresyondaysa hep depresyonda kalıyor 
-⦁	Eğer optimist ise ve depresyondaysa, zamanla iyiye gidiyor 
-⦁	Eğer optimist ise ve depresyonda değilse, hep depresyonsuz devam ediyor
 
-İkinci risk faktörü, çocuğun başına gelen talihsiz olaylar. Dikkat edilmesi gereken olayların başlıcaları şu şekilde
-⦁	Bir kardeşin iş veya okul sebebiyle evden ayrılması
-⦁	Bir evcil hayvanın ölümü
-⦁	Çocuğun çok sevdiği bir büyükanne/babanın ölümü
-⦁	Yeni bir okula geçiş 
-⦁	Anne babanın kavga etmesi 
-⦁	Boşanma veya ayrılma (ana babanın kavgası ve bu madde en önemli faktör) 
+*Bu bölümde çocuğunuzun depresyonunu ölçmek için bir test var.*
+
+Optimist veya pesimist çocuklar üzerinde yapılan deneylerde, başarıszlık öncesinde iki grubun da başarısı aynı iken, başarısızlık sonrasında optimistler ve pesimistler ayrılıyor. Pesimistlerin yetenekleri hızlı bir düşüş yaşıyor ve 2-3 sınıf aşağıda yaptıkları işlemleri bile yapamaz hale geliyorlar. Hatta oyunun sonlarına doğru tekrar başarılı olduklarında bu sefer başarılarını önemsiz görmeye başlıyorlar. Ve geleceğe doğru öngörüde bulunduklarında, biraz önce 100% başarıyla çözdükleri soruların gelecekte ancak yarısını doğru çözebileceklerini belirtiyorlar. Bir çocuk ne yaparsa yapsın başaramayacağını düşünmeye başladığı anda notları hızla kötüleşiyor. 
+
+Bir okulla birlikte yıllar sürecek bir proje başlatıp 200 çocuğu izliyor yazarımız. Beklendiği gibi, ileriki yaşlardaki depresyonu en iyi gösteren faktör çocuk yıllardaki depresyon. Çalışma sonucunda varılan ise pesimist açıklama stili ve çocukların başına gelen talihsiz olayların depresyona götüren en önemli iki risk faktörü olduğu. 
+
+* Çocuk 3. sınıfa pesimist bir açıklama stiliyle başladıysa fakat depresyonda değilsen, zaman geçtikçe depresif oluyor
+* Eğer pesimist olarak başladıysa ve depresyondaysa hep depresyonda kalıyor 
+* Eğer optimist ise ve depresyondaysa, zamanla iyiye gidiyor 
+*	Eğer optimist ise ve depresyonda değilse, hep depresyonsuz devam ediyor
+
+İkinci risk faktörü, çocuğun başına gelen talihsiz olaylar. Dikkat edilmesi gereken olayların başlıcaları şu şekilde:
+
+*	Bir kardeşin iş veya okul sebebiyle evden ayrılması
+*	Bir evcil hayvanın ölümü
+*	Çocuğun çok sevdiği bir büyükanne/babanın ölümü
+*	Yeni bir okula geçiş 
+*	Anne babanın kavga etmesi 
+*	Boşanma veya ayrılma (ana babanın kavgası ve bu madde en önemli faktör) 
 
 Şimdi çalışmanın geniş sonuçlarına ve yorumlara gelelim. Genel olarak boşanma yaşayan çocukların durumu kötü. Boşanmış ailelerin çocukları depresyon skalasında bölünmemiş ailelerin çocuklarına kıyasla daha kötü durumdalar. Boşanma sonrasında zamanla düzelmeyen, sürekli sabit kalan bir seviye. Ve sonuçlar tüm depresyon semptomlarına yayılmış vaziyette: boşanma yaşayan çocuklar daha üzgünler, sınıfta daha çok sorun çıkartıyorlar, yaşama zevkleri ve motivasyonları daha zayıf, özgüvenleri daha düşük, fiziksel sağlıkları daha kötü ve daha kaygılılar. 
+
 Bu bulguların ortalama olduğunu hatırlatalım. Tüm boşanan ailelerin çocukları böyle olmuyor fakat bu çocukların depresyona girmesi çok daha yüksek ihtimal. 
 Aynı zamanda bu çocukların başına daha başka kötü şeyler gelme ihtimali de daha yüksek. Boşanmış ailelerin çocukları, aşağıdaki olayları daha sık yaşıyorlar. 
-⦁	Anneleri başka bir işe başlıyor. 
-⦁	Okul arkadaşları daha soğuk davranıyor
-⦁	Bir ebeveyn tekrar evleniyor 
-⦁	Bir ebeveyn hastaneye yatıyor
-⦁	Çocuk bir dersten sınıfta kalıyor. 
+
+*	Anneleri başka bir işe başlıyor. 
+*	Okul arkadaşları daha soğuk davranıyor
+*	Bir ebeveyn tekrar evleniyor 
+*	Bir ebeveyn hastaneye yatıyor
+*	Çocuk bir dersten sınıfta kalıyor. 
 
 Bunların haricinde, boşanmaya sebep olan aşağıdaki olayları da daha uzun süre yaşıyorlar.  
-⦁	Ebeveynleri daha çok kavga ediyor
-⦁	Babaları daha sık iş gezisine çıkıyor 
-⦁	Bir ebeveyn işini kaybediyor 
 
-Bütün bunların üzerine aşağıdaki olayları da daha fazla yaşıyor boşanan ailelerin çocukları. Bunların sebebini yazar hala açıklayabilmiş değil fakat çalışma bunu gösteriyor
-⦁	Boşanan ailelerin çocuklarının kardeşlerinin hastanelik olma ihtimali ailesi boşanmamış çocuklardan 3.5 kat daha fazla 
-⦁	Çocuğun kendisinin hastanelik olma ihtimali 3.5 kat daha fazla 
-⦁	Çocuğun bir arkadaşının ölme ihtimali 2 kat daha fazla. 
-⦁	Bir büyükanne/babanın ölme ihtimali 2 kat daha fazla. 
+*	Ebeveynleri daha çok kavga ediyor
+*	Babaları daha sık iş gezisine çıkıyor 
+*	Bir ebeveyn işini kaybediyor 
+
+Bütün bunların üzerine aşağıdaki olayları da daha fazla yaşıyor boşanan ailelerin çocukları. Bunların sebebini yazar hala açıklayabilmiş değil fakat çalışma bunu gösteriyor.
+*	Boşanan ailelerin çocuklarının kardeşlerinin hastanelik olma ihtimali ailesi boşanmamış çocuklardan 3.5 kat daha fazla 
+*	Çocuğun kendisinin hastanelik olma ihtimali 3.5 kat daha fazla 
+*	Çocuğun bir arkadaşının ölme ihtimali 2 kat daha fazla. 
+*	Bir büyükanne/babanın ölme ihtimali 2 kat daha fazla. 
 
 Boşanma yaşayan çocuklar diğer çocuklara kıyasla çok daha fazla talihsiz olay yaşamaya meyilliler. 
+
 Genel düşünce evinde huzur olmadan yaşamaktansa, ebeveynlerinin ayrılması bir çocuk için daha iyidir şeklindedir. Fakat yapılan çalışma gösteriyor ki bu çocuklar boşanan ailelerin çocuklarından da çok depresyona meyilliler ve başlarına talihsiz bir olay gelme ihtimali çok daha fazla. 
-Bölüm 9 - Spor 
+
+## Bölüm 9 - Spor 
 Bu bölüm kişisel optimizmin yanı sıra bir grup insanda (takımlarda) bir açıklama stili olabilir mi ve bu açıklama stili takımın başarısına etki edebilir mi sorusuna cevap arıyor. 
-Cevap evet. Profesyonel spor takımları üzerinde yapılan araştırmalar gösteriyor ki başarısızlıklarını -kaybettikleri maçları- açıklama stilleri takımların başarılarını etkiliyor. Optimist takımlar kaybettikleri maçtan sonraki maçlarda beklenmeyen bir performans gösteriyorlar. Pesimist takımların ise bir mağlubiyetten sonra üst üste mağlubiyetlere devam etme ihtimalleri daha fazla. 
+
+Cevap **evet**. Profesyonel spor takımları üzerinde yapılan araştırmalar gösteriyor ki başarısızlıklarını -kaybettikleri maçları- açıklama stilleri takımların başarılarını etkiliyor. Optimist takımlar kaybettikleri maçtan sonraki maçlarda beklenmeyen bir performans gösteriyorlar. Pesimist takımların ise bir mağlubiyetten sonra üst üste mağlubiyetlere devam etme ihtimalleri daha fazla. 
+
 Aynı zamanda açıklama stili optimist olan takımlar stres altında çok daha iyi performans gösteriyorlar. 
-Bölüm 10 - Sağlık 
+
+## Bölüm 10 - Sağlık 
+
 Bölümün ana fikri daha önceki bölümlerde de kısaca değinildiği gibi pesimizmin fiziksel sonuçları da olduğu. 
-Bölüm 12- Optimist Hayat
+
+## Bölüm 12- Optimist Hayat
 Bu bölümden itibaren hayatımızdaki pesimist anlayışı optimizme nasıl çevirebileceğimizle ilgili taktikler veriliyor. 
+
 Yaşadığımız olaylarla ilgili geliştirdiğimiz bazı inançlarımız bizde pes etme tepkisi yaratır. Bu pes etme tepkisiyle nasıl savaşacağımıza değinelim. 
+
 1.	Birinci adım, Adversity (zorluk) , Belief (inanç), ve Consequences (sonuçlar) arasındaki bağlantıyı anlamak. Hayatımızda bir zorlukla karşı karşıya geldiğimizde o zorluk hakkında düşünürüz. Bu düşünceler hızla inançlarımız haline gelir ve o kadar kemikleşebilir ki bunların varlığını fark etmeyiz bile. Ve bu inançların bizim için sonuçları vardır. Pes etmek ile mücadeleye devam etmek arasındaki farkı bu inançlar belirler. 
 2.	İkinci adım ise bu ilişkinin -ABC- günlük hayatımızda nasıl çalıştığını fark etmek. 
 
 Burada yazar, bizi başımıza gelen zorlukları ve onları açıklama biçimimizi, bu açıklama biçimi sonucunda neler hissettiğimizi ve yaptığımızı kaydetmeye davet ediyor. Burada sonuçlarda dikkat etmemiz gereken şey olaylara getirdiğimiz pesimist açıklamaların pasiflik ve pes etmeyi doğurduğunu, optimist açıklamaların ise bize enerji verdiğini görebilmek. 
+
 Yazar, pesimizmden kopabilmek için 2 ana strateji öneriyor: 
+
 1.	Distraction (dikkat dağıtmak): Buradaki amaç beynimiz kısır döngüye girdiğinde bu halkayı kırmak için dikkatimizi başka bir şeye vermeye çalışmak. Kötü olayları olduğu anda yazmayı deneyebiliriz. Bunu yapmak için kitapta bazı taktikler verilmiş ama genel ana fikir kafamızı o an kurcalayan şeyden uzaklaşmaya çalışmak. 
 2.	Disputation (çekişmek, itiraz etmek, çürütmek- çürütmeyi seçiyorum): uzun vadede çürütme yöntemi daha etkili. Kafamızda oluşan olumsuz açıklamaları gerçek kanıtlarla çürütmeye çalışmak. Bunun için de 4 ana kalemde kafanızda bir tartışma ve ikna ortamı yaratmanız gerekiyor.
-⦁	Kanıt: Olumsuz bir düşünceyi çürütmenin en etkili yolu onun gerçek olmadığını ispatlamaktır. Çoğu zaman gerçekler sizin yanınızda olacaktır ve kendinize düşüncelerinizin sadece aşırı tepkiden ibaret olduğunu anlatabileceksiniz. Kafanıza gelen kötü düşünceyle kavga edin ve bu düşünceyi çürütebilmek için elimde ne kanıtlar var diye düşünmeye başlayın. 
-⦁	Alternatifler: Bir olayın birçok sebebi olabilir. Pesimist biriyseniz, bu sebeplerden en kötü olanına bağlanırsınız. Eğer birden fazla sebep olabilirse, neden en kötüsünü gerçekmiş gibi kabul ediyorsunuz? Fikirlerinizi çürütmek için, başınıza gelen olayın diğer sebeplerini arayın. Bir sınavda başarısız mı oldunuz? Değişebilecek sebeplere odaklanın -çalışmak için çok vaktim yoktu, spesifik sebeplere odaklanın- bu sınav aşırı zordu, ve kişisel olmayan sebeplere odaklanın - hoca çok acımasız notladı. Bu biraz çaba gerektirebilir. Fakat bu süreçte pesimistlerin en olumsuz açıklamaya yönelmelerinin sebebinin bu açıklamanın kanıtlarla desteklenmesi değil sadece en kötü sebep olduğu için buna bağlanmaları olduğunu unutmayın. 
-⦁	Çıkarımlar: Bazen kendi hakkımızda düşündüğümüz olumsuz fikirlerin gerçek bir dayanağı olabilir. Bu durumda yapmamız gereken, durumu felaketmiş gibi kabullenmemek ve bu durumun çıkarımları ne olabilir diye düşünmek. Örnek olarak, geç yaşta üniversite okumaya karar vermiş birisi sınıfının en yaşlısı olduğu için kimsenin onu işe almak istemeyeceğini düşünüyor. Bu durumda sınıfın en yaşlısı olduğu doğru, çürütülmesi imkansız. Fakat, diğer öğrencilerden yaşlı olması onun en başarısız veya en düşük zekalı olduğu anlamına gelmiyor. Ayrıca kimsenin onu işe almayacağı anlamına da gelmiyor. Kimsenin onu işe almayacağı ihtimali ne kadar? Gerçekliği var mı? 
-⦁	İşe yararlık: Düşündüğümüz olumsuz şey doğru olsa bile bu fikrin bize ne faydası var? Sürekli bunu düşünerek ne kazanabiliriz? Eğer bir fikir yıkıcıysa, doğru veya yanlış olmasına bakmazsızın o fikirden uzaklaşmamız gerekiyor. 
+
+    *	Kanıt: Olumsuz bir düşünceyi çürütmenin en etkili yolu onun gerçek olmadığını ispatlamaktır. Çoğu zaman gerçekler sizin yanınızda olacaktır ve kendinize düşüncelerinizin sadece aşırı tepkiden ibaret olduğunu anlatabileceksiniz. Kafanıza gelen kötü düşünceyle kavga edin ve bu düşünceyi çürütebilmek için elimde ne kanıtlar var diye düşünmeye başlayın. 
+
+    *	Alternatifler: Bir olayın birçok sebebi olabilir. Pesimist biriyseniz, bu sebeplerden en kötü olanına bağlanırsınız. Eğer birden fazla sebep olabilirse, neden en kötüsünü gerçekmiş gibi kabul ediyorsunuz? Fikirlerinizi çürütmek için, başınıza gelen olayın diğer sebeplerini arayın. Bir sınavda başarısız mı oldunuz? Değişebilecek sebeplere odaklanın -çalışmak için çok vaktim yoktu, spesifik sebeplere odaklanın- bu sınav aşırı zordu, ve kişisel olmayan sebeplere odaklanın - hoca çok acımasız notladı. Bu biraz çaba gerektirebilir. Fakat bu süreçte pesimistlerin en olumsuz açıklamaya yönelmelerinin sebebinin bu açıklamanın kanıtlarla desteklenmesi değil sadece en kötü sebep olduğu için buna bağlanmaları olduğunu unutmayın. 
+
+    *	Çıkarımlar: Bazen kendi hakkımızda düşündüğümüz olumsuz fikirlerin gerçek bir dayanağı olabilir. Bu durumda yapmamız gereken, durumu felaketmiş gibi kabullenmemek ve bu durumun çıkarımları ne olabilir diye düşünmek. Örnek olarak, geç yaşta üniversite okumaya karar vermiş birisi sınıfının en yaşlısı olduğu için kimsenin onu işe almak istemeyeceğini düşünüyor. Bu durumda sınıfın en yaşlısı olduğu doğru, çürütülmesi imkansız. Fakat, diğer öğrencilerden yaşlı olması onun en başarısız veya en düşük zekalı olduğu anlamına gelmiyor. Ayrıca kimsenin onu işe almayacağı anlamına da gelmiyor. Kimsenin onu işe almayacağı ihtimali ne kadar? Gerçekliği var mı? 
+    *	İşe yararlık: Düşündüğümüz olumsuz şey doğru olsa bile bu fikrin bize ne faydası var? Sürekli bunu düşünerek ne kazanabiliriz? Eğer bir fikir yıkıcıysa, doğru veya yanlış olmasına bakmazsızın o fikirden uzaklaşmamız gerekiyor. 
 
 ABC modeline iki harf daha ekleyip Disputation ve Energization, yani çürütme ve enerjik hale gelme adımları ekliyoruz. Disputation zaten yukarıda anlattığımız olumsuz fikirleri boşa çıkarma teknikleri. E adımı ise fikrimizi çürüttükten sonraki gerçeklikle yeni bir bakış açısı geliştirmek. 
+
 Sesleri dışsallaştırmak adında bir egzersiz tavsiye ediliyor. Bu egzersizde çok güvendiğiniz, karşısında kendinizi savunmada hissetmeyeceğiniz birini seçip, sizi eleştirmesini istiyorsunuz. Ve size yönelttiği her olumsuz eleştiriye bir cevap vermeye çalışıyorsunuz. Bu sayede kafanızın içinde yapmanız gereken çalışmayı kafanızdan dışarı çıkarıp gerçekte deniyorsunuz. 
-Bölüm 13 - Çocuklarınızın pesimizmden kaçmasına yardımcı olmak 
+
+## Bölüm 13 - Çocuklarınızın pesimizmden kaçmasına yardımcı olmak 
 Çocuklar pesimizmi öncelikle annelerinden, sonra ailedeki diğer büyüklerden, ve kendilerini eleştiren diğer yetişkinlerden öğrenirler. 
+
 Optimizmi öğrenmek, yukarıda anlattığımız ABC yöntemini çocuğunuza anlatarak mümkün. Çocuğunuza ABC modelini anlatın. Olaylar karşısındaki düşüncelerimizin, duygularımızı da etkilediğini ona anlatın. 
+
 Burada inanç (B) kısmı çok önemli. İnancımızı değiştirebilirsek, sonuçları da değiştirebiliriz. 
+
 Çocuğunuza çürütme tekniğini anlatın. Çocuğun, olumsuz bir fikre sahip olmamızın o fikrin doğru olduğu anlamına gelmediğini öğretmemiz gerekiyor. Kafamızda oluşan herşeyin doğru olmadığını, onların tıpkı bir başka insandan geliyormuş gibi çürütülebileceğini öğretin. 
+
 Örnek olarak, ona hakaret eden bir arkadaşını verebilirsiniz. O arkadaşının söylediklerini nasıl çürütüp umursamıyorsa, kendi kafasındaki fikirlerin de bazılarını çürütüp önemsememesi mümkün. 
+
 Güzel bir egzersiz şu şekilde olabilir. Çocuğunuzun kendi hakkında düşündüğü en kötü düşünceyi size söylemesini isteyin. Ve bu düşünceyi sanki en sevmediği arkadaşı ona söylemiş gibi düşünmesini isteyin. En sevmediği çocuk ona bu sözü söylese nasıl cevap verirdi? Nasıl tepki verirdi? Nasıl tepki vermesi gerekir? Bunları tartışın.
+
 Sonra kendi fikirlerinin de bu şekilde tartışmaya açık olduğunu anlatın. 
 Bu çalışmadan bir süre sonra çocuğunuzla tekrar bu konuyu açın. Yukarıdaki ABCDE tekniğini yapın. Çocuğunuzun başına gelen kötü olayları yazın; bu olayı nasıl açıkladığını, ve açıklama sonrasında nasıl bir durumda olduğunu yazın; ardından bu inancı çürütmeye çalışın ve çürüttükten sonraki durumu tekrar değerlendirin. 
-Bölüm 14 - Optimist organizasyon 
+# Bölüm 14 - Optimist organizasyon 
 Kitabın bu bölümü işyerinde karşılaştığımız kötü olaylara değiniyor. Ayrıca işyerinde mücadeleyi bıraktığımız olaylara ve bunlar sonrasında mücadeleye nasıl devam edeceğimize odaklanıyor. Burada da yukarıdaki teknikleri iş hayatına uyguluyor. 
+
 Aynı zamanda yöneticiler için de bazı tavsiyeler var. Nasıl optimist bir organizasyon yaratırız, optimistleri hangi işlere, pesimistleri hangi işlere koymamız lazım gibi konulara değiniyor. Ayrıca pesimist ve optimistler için kariyer seçimi konularında öneriler sunuyor. 
 
 
