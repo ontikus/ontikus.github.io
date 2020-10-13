@@ -1,6 +1,6 @@
 ---
 title: "The Power of Habit"
-published: true
+published: false
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -52,7 +52,7 @@ Bu deney sonrasında davranışçılık (behaviorism) psikolojisinin temel dayan
 Kendi çabalarının sonuca ve kaderlerine bir etkisi olduğunu bilen köpekler kurtulmak için mücadele ederken, önceki tecrübesinde ne yaparsa yapsın sonucun değişmeyeceğine inanmış köpekler ileride karşılaştıkları problemlerden kurtulmaya yeltenmiyor bile.
 
 **Fakat çaresizliği bu şekilde öğrenmiş köpeklere tekrar tekrar ikinci kutuda şoktan nasıl kaçabilecekleri gösterilirse -onları tutup kutunun öbür tarafına defalarca atlatarak- kendi davranışlarının onları kurtarabileceğine olan inançları geri geliyor.** Ve bu şekilde bir kere eğitimden geçip öğrenen köpekler artık çaresizliğe karşı bir bağışıklık geliştiriyorlar. **Sonraki denemelerde başlarına ne gelirse gelsin hep mücadele etmeye başlıyorlar.**
- 
+
 Yalnız bu deney sonucunda bazı noktalar tam olarak açıklanamıyor çünkü bu deney birçok köpekle yapıldığında görülüyor ki çaresizlik grubundaki (deneydeki ikinci grup) köpeklerin üçte biri çaresizliğe hiçbir zaman teslim olmuyor ve mücadeleyi hep sürdüyor. Öte yandan şok görmeyen kontrol grubundaki deneklerden 10 da 1'i kaçmayı hiç denemiyor. Yani başından beri zaten öğrenilmiş çaresizlik içindeler. Bu deneyin benzerleri insanlar üzerinde yapıldığında da sonuç aynı. 2. grubun üçte biri doğuştan mücadeleci, kontrol grubunun onda biri doğuştan çaresiz. Bu da bizi açıklama stili (explanatory style) konusuna getiriyor. 
 Bölüm 3- Talihsizlikleri Açıklamak  (explaining misfortune) 
 Deneydeki yukarıda belirttiğimiz tutarsızlıkları açıklayabilmek için yazarımız yine yıllarca birçok deney yapıyor ve en sonunda explanatory style -açıklama stili- diye bir bileşen daha yaratıyor. Bu, kısaca başımıza gelen kötü olayları kafamızda çözümlerken kendimize anlattığımız hikayelerin karakteri demek. Zorluklar karşısında çabuk toparlanıp mücadeleye devam etmek ile hemen yelkenleri suya indirip depresyona girmek arasındaki seçimimizi belirleyen açıklama stilimiz. 
