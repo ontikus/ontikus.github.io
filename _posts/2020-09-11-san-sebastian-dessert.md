@@ -29,9 +29,15 @@ Bunun yerine ben çok daha yumuşak, adeta tamamen krema gibi olan fakat yine de
 
 ## Kaynaklar 
 Tabii ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi stilimi bulmadan önce faydalandığım iki tane video var. 
-1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0): bu video, metodu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
+1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNRFoTUe1t0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. Ayrıca iki ayrı kapta iki ayrı karışım hazırlayıp sonra onları tekrar birbirine karıştırmak zaman kaybı yaratıyor. 
+Bu video, metodu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
+
+2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gh3KnuKNbnA?start=479" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+ 
+Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. Ayrıca iki ayrı kapta iki ayrı karışım hazırlayıp sonra onları tekrar birbirine karıştırmak zaman kaybı yaratıyor. 
    
 ## Malzemeler 
 ![Malzemeler](/assets/images/san-sebastian-ingredients.jpeg){:class="img-responsive"}
