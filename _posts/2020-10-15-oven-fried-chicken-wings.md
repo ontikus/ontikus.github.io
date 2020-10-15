@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - food
-
+'''
 gallery:
   - url: /assets/images/san-sebastian-cooked.jpeg
     image_path: /assets/images/san-sebastian-cooked.jpeg
@@ -16,56 +16,37 @@ gallery:
     image_path: /assets/images/san-sebastian-slice.jpeg
     alt: "Slice of San Sebastian"
     title: "Slice of San Sebastian"
+'''
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
+* Intro to chicken wings. I love chicken wings. They are salty, crunchy, spicy, juicy, go great with beer, low on carbohydrates -except for the beer-. I first got hooked when I was in the US. I look for a good place that offers good chicken wings and good beer everywhere I live. I can eat chicken wings non-stop if they satisfy the following conditions: 
+    * Crunchy on the outside, juicy on the inside. Seinfeld lovers, [see Kramer's choice of plums](https://youtu.be/ShwJBi08tkI?t=20)
+    * Has a hot sauce that is not very spicy, but it burns your nose when you inhale the sauce. It has a specific taste that is close to Tabasco. 
+    * Served with blue cheese or ranch dressing and celery sticks. 
+    * A cold IPA. 
 
-## Neden San Sebastiyan (SS)? 
-Bütün dünyayı kasıp kavurduktan sonra İstanbul'a ulaşan SS kekinden tabii ki benim haberim yoktu. Bir gün babamdan duydum ve heyecan olsun diye denemeye karar verdim. O andan beri 10'dan fazla sefer yapıp konu komşuya, eşe dosta dağıttık. Bir miktar da kendimiz yedik. Herkese hem dilim dilim pasta verip hem de resimler yolladıkça tarif isteyenler çoğaldı. Bu post da elzem oldu. 
+But, that's very hard to come by. In most places, the wings come either dead-dry, or mushy and uncooked. There was only [one place](http://blackharppub.ru/) I could find that comes close to the ideal. Withe corona situation, it is a distant dream for now. 
 
-Disclaimer: Gerçek SS hiç yemediğim için nasıl bir şey olduğunu bilmiyorum. Fakat benim hayalimdeki SS bol kremalı ve yumuşak bir şey olmalı. Internette gördüğüm kadarıyla herkesin keki kalıptan kek gibi çıkacak kadar sert oluyor. 
+That's why I jumped to the opportunity to make chicken wings at home with and added bonus: I was promised that it would taste great and I would not have to deep fry anything.
 
-Bunun yerine ben çok daha yumuşak, adeta tamamen krema gibi olan fakat yine de kendi kendine ayakta durabilen bir kıvam hedefliyorum. Kekinizi kalıptan çıkarmadan servis etmeye hazır olun. 
+Kenji's video basically tells everything that you need to know. I only have a just a little note. The recipe calls for 1 teaspoon of salt and 1 teaspoon of baking soda per pound of chicken. It comes about to **7 grams of salt and 7 grams of baking soda per kilogram of chicken**. I would put a little bit more baking soda (~10-12 gr. per kg.). 
 
-## Kaynaklar 
-Tabii ki SS pastasını ilk ben yapmadım, son yapan da ben olmayacağım. Kendi stilimi bulmadan önce faydalandığım iki tane video var. 
-1. [Japon tarzı](https://www.youtube.com/watch?v=oNRFoTUe1t0): bu video, metodu çok iyi anlatıyor. Tüm karışım tek bir kapta ve mikser kullanmadan herşey elle karıştırılıyor. En güzel sonuca bu videodaki metotla ulaştım. Yaparken bu videoyu model alın. 
+[The Best Oven-Fried Buffalo Wings by Kenji Lopez-Alt](https://www.youtube.com/watch?v=Gg7mNNKYvGA) 
 
-2. [Türk tarzı](https://youtu.be/gh3KnuKNbnA?t=475): Malzemeleri neredeyse tamamiyle buradaki gibi yaptım. İlk başta ilham vermesi açısından bu videoyu takdir etsem de, özellikle kullandığınız malzemeler çok yağlı ise mikser kullanımı sırasında iyice kremalaşıyor. Edindiğim izlenime göre fırına girmeden önce sıvı halde olması gerekiyor karışımın. Ayrıca iki ayrı kapta iki ayrı karışım hazırlayıp sonra onları tekrar birbirine karıştırmak zaman kaybı yaratıyor. 
-   
-## Malzemeler 
-![Malzemeler](/assets/images/san-sebastian-ingredients.jpeg){:class="img-responsive"}
-* 500 gr. [Mascarpone](http://www.galbani.com/products.php)
-* 500 gr. Krem peynir [Philadelphia Original](https://www.philadelphia.co.uk/products/philadelphia-original/philadelphia-original)
-* 130 gr. pudra şekeri 
-* 500 ml. [krema](https://www.ah.nl/producten/product/wi33705/ah-slagroom-voordeel) 
-* 1 yemek kaşığı (15 ml.) vanilla aroma (Bu sıvı vanilya aroması. Eğer şeker şeklinde vanilya bulursanız bir ufak paket) Vanilyayı kendi ağız tadınıza göre istediğiniz kadar çok veya az koyabilirsiniz. Vanilya sevmiyorsanız koymayabilirsiniz. 
-* 1 yemek kaşığı (15 ml.) mısır nişastası 
-* 4 yumurta 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gg7mNNKYvGA?start=20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tarif 
-* Tüm karışımı tek bir kapta hazırlayacağımız için büyük ve derin bir karıştırma kabına mascarpone ve krem peynirimizi koyup bir spatula ile karıştırıp yumuşatıyoruz. 
-* Daha sonra pudra şekerimizi ekleyip bu sefer elimize [whisk](https://duckduckgo.com/?t=ffab&q=whisk&iax=images&ia=images) alıp tamamen homojen olana kadar karıştırıyoruz. Videoları izleyince farkedeceksiniz bizim malzemelerimize göre 250 gr. şeker koymamız gerekiyor. Ben tatlımı hakkınca şekerli severim diyorsanız 250 gr. şeker koyun. 
-* Ardından yumurtamızı ekleyip yine el maharetiyle homojen hale gelene kadar karıştırıyoruz. 
-* Mısır nişastamızı ve vanilya aromamızı ekleyip yine karıştırıyoruz. 
-* En son kremamızı ekleyip yine homojen hale gelene kadar karıştırıyoruz. 
-* Videolarda kek kabının dibini yağlıyorlar fakat ben bunun için uğraşmaya değer bulmadım. Zaten fırın kağıdı koyacağımız için fırın kağıdı kek kalıbına yapışmayı engelliyor. Boşuna uğraşmayın.
+
+* Interpretations of chicken wings in the world 
+    * US: Deep fried with hot sauce. The sauce is not extremely hot, but burns inside your nose when you inhale the vapors. It's crunchy on the outside, yet juicy on the inside. 
+    * Russia: An imitation of the American chicken wings, with local additions. It comes out either dead-dry, or mushy and uncooked. There is only [one place](http://blackharppub.ru/) that comes close to offering American style wings.  
+    * Turkey: Turkish wings are marinated in hot pepper paste and grilled on a [mangal](https://en.wikipedia.org/wiki/Mangal_%28barbecue%29). Although I enjoy this because I love bbq, still it does not come close to the American style. 
+* Kenji and the video 
+* Things to look out for. 
+    * The key is to toss the wings with salt and baking soda mix and leave them to dry in the refrigerator for **24 hours**. 
+    * 
   
-![Boş kalıp](/assets/images/san-sebastian-empty.jpeg)
 
-* Kek kalıbının dibini 2 fırın kağıdıyla güzelce kaplayıp karışımı içine döküyoruz. 
-
-![Harç](/assets/images/san-sebastian-not-cooked.jpeg)
-
-* Ne kadar pişireceğimiz konusu biraz çetrefilli. Benim fırınım uyduruk ve mikrodalgalı kombine fırın olduğu için ısıyı iyi tutmuyor. 
-* Benim fırımında ilk 15 dk 220 derecede fırın ve üst brulörler açık, daha sonra 30 dk. sadece 220 derece fırın olmak üzere toplam 45 dk. pişiriyorum. 
-
-* İnternetteki tariflerde ve videolarda değişik zamanlamalar var. Fakat başta da yazdığım gibi ben yumuşak bir kıvam aradığım için internette gördüklerim bana hep çok pişmiş gibi geliyor. 
-* Fırında pişerken iyice kabaracak fakat korkmayın daha sonra inecek. 
-* Piştiğini anlamak için:
-    *  Üstünün kazandibi misali iyice yanmış olması gerekiyor. 
-    *  Çorba gibi sıvı olmayacak fakat hafif salladığınızda bıngıl bıngıl oynayacak. 
-* Fırından aldıktan sonra biraz bekletip yemeden önce buzdolabında 24 saat dinlendiriyoruz. 
 
 
 {% include gallery caption="San Sebastian'ımız pişti ve yenmeye hazır" %}
