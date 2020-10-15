@@ -1,6 +1,6 @@
 ---
 title: "Yoğun istek üzerine San Sebastiyan"
-published: true
+published: false
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
