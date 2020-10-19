@@ -1,22 +1,58 @@
 ---
 title: "Yoğun istek üzerine San Sebastiyan"
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - food
-'''
+
 gallery:
-  - url: /assets/images/san-sebastian-cooked.jpeg
-    image_path: /assets/images/san-sebastian-cooked.jpeg
-    alt: "San Sebastian Fully Cooked"
-    title: "San Sebastian Fully Cooked"
-  - url: /assets/images/san-sebastian-slice.jpeg
-    image_path: /assets/images/san-sebastian-slice.jpeg
-    alt: "Slice of San Sebastian"
-    title: "Slice of San Sebastian"
-'''
+  - url: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
+    alt: "Wings in the Fridge"
+    title: "Wings in the Fridge"
+  - url: /assets/images/oven-fried-chicken-wings/wings-overnight1.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-overnight1.jpeg
+    alt: "Wings Overnight"
+    title: "Wings Overnight"
+  - url: /assets/images/oven-fried-chicken-wings/wings-overnight2.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-overnight2.jpeg
+    alt: "Wings Overnight"
+    title: "Wings Overnight"  
+  - url: /assets/images/oven-fried-chicken-wings/wings-overnight2.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven.jpeg
+    alt: "Wings Overnight"
+    title: "Wings Overnight"
+  - url: /assets/images/oven-fried-chicken-wings/wings-in-oven.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven.jpeg
+    alt: "Wings in the Oven"
+    title: "Wings in the Oven"
+  - url: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
+    alt: "Wings in the Oven"
+    title: "Wings in the Oven"
+  - url: /assets/images/oven-fried-chicken-wings/wings-served.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-served.jpeg
+    alt: "Wings Served"
+    title: "Wings Served"
+  - url: /assets/images/oven-fried-chicken-wings/wings-served2.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-served2.jpeg
+    alt: "Wings Served"
+    title: "Wings Served"
+  - url: /assets/images/oven-fried-chicken-wings/wings-with-sauce-closeup.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-with-sauce-closeup.jpeg
+    alt: "Wings on the Plate"
+    title: "Wings on the Plate"
+  - url: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
+    alt: "Wings on the Plate"
+    title: "Wings on the Plate"
+- url: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
+    alt: "Kona IPA"
+    title: "Kona IPA"
+
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
@@ -36,19 +72,13 @@ Kenji's video basically tells everything that you need to know. I only have a ju
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gg7mNNKYvGA?start=20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Note: I was able to buy [Frank's Original Redhot](https://www.franksredhot.com/en-us) sauce at the supermarket. Major online retailers carry it, so you can order online depending on your location.*  
 
-* Interpretations of chicken wings in the world 
-    * US: Deep fried with hot sauce. The sauce is not extremely hot, but burns inside your nose when you inhale the vapors. It's crunchy on the outside, yet juicy on the inside. 
-    * Russia: An imitation of the American chicken wings, with local additions. It comes out either dead-dry, or mushy and uncooked. There is only [one place](http://blackharppub.ru/) that comes close to offering American style wings.  
-    * Turkey: Turkish wings are marinated in hot pepper paste and grilled on a [mangal](https://en.wikipedia.org/wiki/Mangal_%28barbecue%29). Although I enjoy this because I love bbq, still it does not come close to the American style. 
-* Kenji and the video 
-* Things to look out for. 
-    * The key is to toss the wings with salt and baking soda mix and leave them to dry in the refrigerator for **24 hours**. 
-    * 
-  
+Now that you know how to cook the main dish, let's prepare the ranch dressing. 
+
+[Kenji- Ranch Dressing](https://www.youtube.com/watch?v=p8nJIiQo7jw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p8nJIiQo7jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include gallery caption="A gallery of how this looks" %}
 
 
-
-{% include gallery caption="San Sebastian'ımız pişti ve yenmeye hazır" %}
-
-*Afiyet olsun*.
