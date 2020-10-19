@@ -48,7 +48,7 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
     alt: "Wings on the Plate"
     title: "Wings on the Plate"
-- url: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
+  - url: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
     alt: "Kona IPA"
     title: "Kona IPA"
