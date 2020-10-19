@@ -29,20 +29,16 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
     alt: "Wings in the Oven"
     title: "Wings in the Oven"
-  - url: /assets/images/oven-fried-chicken-wings/wings-served.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-served.jpeg
-    alt: "Wings Served"
-    title: "Wings Served"
+  - url: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
+    alt: "Wings on the Plate"
+    title: "Wings on the Plate"
   - url: /assets/images/oven-fried-chicken-wings/wings-served2.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/wings-served2.jpeg
     alt: "Wings Served"
     title: "Wings Served"
   - url: /assets/images/oven-fried-chicken-wings/wings-with-sauce-closeup.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/wings-with-sauce-closeup.jpeg
-    alt: "Wings on the Plate"
-    title: "Wings on the Plate"
-  - url: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-on-plate-closeup.jpeg
     alt: "Wings on the Plate"
     title: "Wings on the Plate"
   - url: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
