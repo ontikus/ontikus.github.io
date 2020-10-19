@@ -7,6 +7,7 @@ categories:
 tags:
   - food
 
+'''
 gallery:
   - url: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
@@ -52,7 +53,9 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
     alt: "Kona IPA"
     title: "Kona IPA"
+{% include gallery caption="A gallery of how this looks" %}
 
+'''
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
@@ -64,7 +67,7 @@ In my opinion, wings must satisfy the following conditions:
   * Must be served with blue cheese or ranch dressing and celery sticks. 
   * Must be served with a cold bottle of IPA. 
 
-But, that's very hard to come by. In most places, the wings come either dead-dry, or mushy and uncooked. There was only [one place](http://blackharppub.ru/) I could find that comes close to the ideal. Withe corona situation, it is a distant dream for now. 
+But, that's very hard to come by. In most places, the wings come either dead-dry, or mushy and uncooked. There was only [one place](http://blackharppub.ru/) I could find that comes close to the ideal. With the corona situation, going there is a distant dream for now. 
 
 That's why I jumped to the opportunity to make chicken wings at home. I was promised that it would taste great and I would not have to deep fry anything.
 
@@ -76,12 +79,7 @@ Kenji's video below explains everything you need to know. I only have a just a l
 
 *Note: I was able to buy [Frank's Original Redhot](https://www.franksredhot.com/en-us) sauce at the supermarket. Major online retailers carry it, so you can order online depending on your location.*  
 
-Now that you know how to cook the main dish, let's prepare the ranch dressing. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8nJIiQo7jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you want to add an easy-to-make ranch dressing as a side, please watch [Kenji's POV video](https://www.youtube.com/watch?v=p8nJIiQo7jw). 
 
-I included a photo gallery of how my process and end result looked like. 
-
-
-{% include gallery caption="A gallery of how this looks" %}
 
 
