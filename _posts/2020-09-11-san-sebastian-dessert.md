@@ -1,5 +1,5 @@
 ---
-title: "Yoğun istek üzerine San Sebastiyan a.k.a creaminess is next to godliness"
+title: "San Sebastian a.k.a creaminess is next to godliness"
 published: true
 excerpt_separator: "<!--more-->"
 categories:
