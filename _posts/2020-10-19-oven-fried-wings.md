@@ -29,10 +29,6 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
     alt: "Wings in the Oven"
     title: "Wings in the Oven"
-  - url: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
-    alt: "Wings in the Oven"
-    title: "Wings in the Oven"
   - url: /assets/images/oven-fried-chicken-wings/wings-served.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/wings-served.jpeg
     alt: "Wings Served"
