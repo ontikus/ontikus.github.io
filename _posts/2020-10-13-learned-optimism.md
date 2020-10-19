@@ -11,6 +11,9 @@ tags:
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
+
+[Learned Optimism: How to Change Your Mind and Your Life](https://books.google.com/books?id=qreACUdDAc0C) by [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman) kitabının kısa bir özeti. 
+
 Bu özet umduğumdan çok uzun oldu. Fakat kitap bilimsel verilere dayandığı için normalde okuduğunuz self-help (kişisel gelişim) kitaplarından çok farklı. Anlatılan her nokta yıllar süren deneylerle desteklenmiş. 
 
 * 1 - 6. bölüm yazarın öğrenilmiş çaresizlik kavramını ortaya atmasının altında yatan bilimsel temelleri açıklıyor. 
@@ -18,9 +21,6 @@ Bu özet umduğumdan çok uzun oldu. Fakat kitap bilimsel verilere dayandığı 
 * 6 - 11. bölüm yukarıda anlatılan konsepti okul, işyeri, çocukluk dönemi, spor, gibi spesifik alanlara uyguluyor. Bu bölümlerin bazılarını kısaca özetleyip hızlı geçtim. 
 
 * 12 ve 13. bölümler ise öğrenilmiş çaresizlikten hem kendimizi hem çocuklarımızı kurtarmak için kullanabileceğimiz pratik çözümlere değiniyor.
-
-
-[Learned Optimism: How to Change Your Mind and Your Life](https://books.google.com/books?id=qreACUdDAc0C) by [Martin Seligman](https://en.wikipedia.org/wiki/Martin_Seligman) kitabının kısa bir özeti. 
 
 Kitabımız bu konuya hayatını vermiş bir bilim insanının 20 yıllık araştırmaları sonucunda optimizm ve pesimizm hakkında vardığı sonuçları anlattığı bir kitap. 
 Hepimiz öğrenilmiş çaresizlik (learned helplessness) kavramını mutlaka duymuşuzdur. Yazar, bu kavramı ortaya atmış ve bu konuda araştırmalar yapmış bir insan. Kitabın ana fikri ise çaresizlik ve pesimizm öğrenilebilen bir şeydir. Öğrenilen bir şey özelliği itibariyle unutulabilen (unlearn) bir şeydir. 
