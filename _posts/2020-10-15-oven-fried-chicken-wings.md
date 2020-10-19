@@ -68,7 +68,7 @@ But, that's very hard to come by. In most places, the wings come either dead-dry
 
 That's why I jumped to the opportunity to make chicken wings at home. I was promised that it would taste great and I would not have to deep fry anything.
 
-Kenji's video basically tells everything that you need to know. I only have a just a little note. The recipe calls for 1 teaspoon of salt and 1 teaspoon of baking soda per pound of chicken. It comes about to **7 grams of salt and 7 grams of baking soda per kilogram of chicken**. I would put a little bit more baking soda (~10-12 gr. per kg.). 
+Kenji's video below explains everything you need to know. I only have a just a little note. The recipe calls for 1 teaspoon of salt and 1 teaspoon of baking soda per pound of chicken. It comes about to **7 grams of salt and 7 grams of baking soda per kilogram of chicken**. I would put a little bit more baking soda (~10-12 gr. per kg.). 
 
 [The Best Oven-Fried Buffalo Wings by Kenji Lopez-Alt](https://www.youtube.com/watch?v=Gg7mNNKYvGA) 
 
@@ -77,9 +77,10 @@ Kenji's video basically tells everything that you need to know. I only have a ju
 *Note: I was able to buy [Frank's Original Redhot](https://www.franksredhot.com/en-us) sauce at the supermarket. Major online retailers carry it, so you can order online depending on your location.*  
 
 Now that you know how to cook the main dish, let's prepare the ranch dressing. 
-
-[Kenji- Ranch Dressing](https://www.youtube.com/watch?v=p8nJIiQo7jw)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8nJIiQo7jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I included a photo gallery of how my process and end result looked like. 
+
 
 {% include gallery caption="A gallery of how this looks" %}
 
