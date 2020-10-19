@@ -58,9 +58,7 @@ gallery:
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
-I **love** chicken wings. They are salty, crunchy, spicy, juicy, go great with beer, low on carbohydrates -except for the beer-. I first got hooked when I was in the US. Everywhere I live, I look for a bar that offers good chicken wings and good beer.
-
-In my opinion, wings must satisfy the following conditions: 
+I **love** chicken wings. They are salty, crunchy, spicy, juicy, go great with beer, low on carbohydrates -except for the beer-. I first got hooked when I was in the US. Everywhere I live, I look for a bar that offers good chicken wings and good beer. In my opinion, wings must satisfy the following conditions: 
   * Crunchy on the outside, juicy on the inside. Seinfeld lovers, [see Kramer's choice of plums](https://youtu.be/ShwJBi08tkI?t=20)
   * Has a hot sauce that is not very spicy, but it burns your nose when you inhale the sauce. It has a specific taste that is close to Tabasco. 
   * Must be served with blue cheese or ranch dressing and celery sticks. 
