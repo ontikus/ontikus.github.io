@@ -1,6 +1,6 @@
 ---
-title: "Yoğun istek üzerine San Sebastiyan"
-published: false
+title: "Who likes buffalo wings?"
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -56,15 +56,17 @@ gallery:
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
-* Intro to chicken wings. I love chicken wings. They are salty, crunchy, spicy, juicy, go great with beer, low on carbohydrates -except for the beer-. I first got hooked when I was in the US. I look for a good place that offers good chicken wings and good beer everywhere I live. I can eat chicken wings non-stop if they satisfy the following conditions: 
+I **love** chicken wings. They are salty, crunchy, spicy, juicy, go great with beer, low on carbohydrates -except for the beer-. I first got hooked when I was in the US. Everywhere I live, I look for a bar that offers good chicken wings and good beer.
+
+In my opinion, wings must satisfy the following conditions: 
     * Crunchy on the outside, juicy on the inside. Seinfeld lovers, [see Kramer's choice of plums](https://youtu.be/ShwJBi08tkI?t=20)
     * Has a hot sauce that is not very spicy, but it burns your nose when you inhale the sauce. It has a specific taste that is close to Tabasco. 
-    * Served with blue cheese or ranch dressing and celery sticks. 
-    * A cold IPA. 
+    * Must be served with blue cheese or ranch dressing and celery sticks. 
+    * Must be served with a cold bottle of IPA. 
 
 But, that's very hard to come by. In most places, the wings come either dead-dry, or mushy and uncooked. There was only [one place](http://blackharppub.ru/) I could find that comes close to the ideal. Withe corona situation, it is a distant dream for now. 
 
-That's why I jumped to the opportunity to make chicken wings at home with and added bonus: I was promised that it would taste great and I would not have to deep fry anything.
+That's why I jumped to the opportunity to make chicken wings at home. I was promised that it would taste great and I would not have to deep fry anything.
 
 Kenji's video basically tells everything that you need to know. I only have a just a little note. The recipe calls for 1 teaspoon of salt and 1 teaspoon of baking soda per pound of chicken. It comes about to **7 grams of salt and 7 grams of baking soda per kilogram of chicken**. I would put a little bit more baking soda (~10-12 gr. per kg.). 
 
