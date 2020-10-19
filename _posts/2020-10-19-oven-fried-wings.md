@@ -13,20 +13,20 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
     alt: "Wings in the Fridge"
     title: "Wings in the Fridge"
-  - url: /assets/images/oven-fried-chicken-wings/wings-overnight1.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-overnight1.jpeg
+  - url: /assets/images/oven-fried-chicken-wings/wings-overnight-1.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-overnight-1.jpeg
     alt: "Wings Overnight"
     title: "Wings Overnight"
-  - url: /assets/images/oven-fried-chicken-wings/wings-overnight2.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-overnight2.jpeg
+  - url: /assets/images/oven-fried-chicken-wings/wings-overnight-2.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-overnight-2.jpeg
     alt: "Wings Overnight"
     title: "Wings Overnight"  
-  - url: /assets/images/oven-fried-chicken-wings/wings-overnight2.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven.jpeg
+  - url: /assets/images/oven-fried-chicken-wings/wings-in-oven1.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven1.jpeg
     alt: "Wings Overnight"
     title: "Wings Overnight"
-  - url: /assets/images/oven-fried-chicken-wings/wings-in-oven.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven.jpeg
+  - url: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
     alt: "Wings in the Oven"
     title: "Wings in the Oven"
   - url: /assets/images/oven-fried-chicken-wings/wings-in-oven2.jpeg
@@ -56,7 +56,7 @@ gallery:
 
 
 #to insert image 
-#![img-title](/path/to/file.jpg){:class="img-responsive"}
+#![img-title](/assets/images/oven-fried-chicken-wings/wings-overnight1.jpeg){:class="img-responsive"}
 ---
 I **love** chicken wings. They are salty, crunchy, spicy, juicy, go great with beer, low on carbohydrates -except for the beer-. I first got hooked when I was in the US. Everywhere I live, I look for a bar that offers good chicken wings and good beer. In my opinion, wings must satisfy the following conditions: 
   * Crunchy on the outside, juicy on the inside. Seinfeld lovers, [see Kramer's choice of plums](https://youtu.be/ShwJBi08tkI?t=20)
@@ -77,7 +77,7 @@ Kenji's video below explains everything you need to know. I only have a just a l
 *Note: I was able to buy [Frank's Original Redhot](https://www.franksredhot.com/en-us) sauce at the supermarket. Major online retailers carry it, so you can order online depending on your location.*  
 
 If you want to add an easy-to-make ranch dressing as a side, please watch [Kenji's POV video](https://www.youtube.com/watch?v=p8nJIiQo7jw). 
-{% include gallery caption="A gallery of how this looks" %}
+{% include gallery caption="My adventure with the chicken wings" %}
 
 
 
