@@ -7,7 +7,7 @@ categories:
 tags:
   - food
 
-'''
+
 gallery:
   - url: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
@@ -53,9 +53,8 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
     alt: "Kona IPA"
     title: "Kona IPA"
-{% include gallery caption="A gallery of how this looks" %}
 
-'''
+
 #to insert image 
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
@@ -80,6 +79,7 @@ Kenji's video below explains everything you need to know. I only have a just a l
 *Note: I was able to buy [Frank's Original Redhot](https://www.franksredhot.com/en-us) sauce at the supermarket. Major online retailers carry it, so you can order online depending on your location.*  
 
 If you want to add an easy-to-make ranch dressing as a side, please watch [Kenji's POV video](https://www.youtube.com/watch?v=p8nJIiQo7jw). 
+{% include gallery caption="A gallery of how this looks" %}
 
 
 
