@@ -9,10 +9,10 @@ tags:
 
 
 gallery:
-  - url: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/wings-in-fridge.jpeg
-    alt: "Wings in the Fridge"
-    title: "Wings in the Fridge"
+  - url: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
+    image_path: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
+    alt: "Kona IPA"
+    title: "Kona IPA"
   - url: /assets/images/oven-fried-chicken-wings/wings-overnight-1.jpeg
     image_path: /assets/images/oven-fried-chicken-wings/wings-overnight-1.jpeg
     alt: "Wings Overnight"
@@ -41,10 +41,7 @@ gallery:
     image_path: /assets/images/oven-fried-chicken-wings/wings-with-sauce-closeup.jpeg
     alt: "Wings on the Plate"
     title: "Wings on the Plate"
-  - url: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
-    image_path: /assets/images/oven-fried-chicken-wings/hawaii-ipa.jpeg
-    alt: "Kona IPA"
-    title: "Kona IPA"
+
 
 
 #to insert image 
