@@ -55,3 +55,13 @@ Trancparency in this context is the idea that you can read what people actually 
 > The paradox of talking to strangers: we need to talk to them. But, we are terrible at it and we are not honest with one another about how terrible at it we are. 
 
 ## A short explanation of the Amanda Knox Case
+
+Amanda Knox's roommate is killed and she becomes the prime suspect in the murder investigation mainly because she reacts to tragedy from what people expect. We go back to Levine's experiments mentioned above. The experiments aim to see if people can tell liars from honest people. The experiments show that we judge people based on their demeanor. Well-spoken, confident people with a firm handshake who are friendly are seen as believable. 
+
+We also believe that people are transparent. So, if their behavior matches our idea of how a liar should behave, we think they are lying. We can identify correctly only if an honest person acts as an honest person, or a liar looks like a liar. But, we fail miserably when there's a *mismatch*. That is, if a liar acts like an honest person, or an honest person looks like a liar. In Knox case, she was very angry instead of sad when she found out that her roommate had been killed. Therefore, people saw her as coldhearted and assumed that she was somehow involved in the murder. 
+
+According to Levine's experiments, the failure to identify *mismatched* people is common in law enforcement agents, police, judges. This shows that even professional *lie detectors* fail to identify liars correctly. 
+
+> But you are trying to find the answer in my eyes ... You are looking at me .. Why? These are my eyes. They are not objective evidence. *Amanda Knox*
+
+## The fraternity party
