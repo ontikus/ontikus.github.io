@@ -1,5 +1,5 @@
 ---
-title: "Talking to Strangers"
+title: "Talking to Strangers: A book by Malcolm Gladwell"
 published: true
 excerpt_separator: "<!--more-->"
 categories:
