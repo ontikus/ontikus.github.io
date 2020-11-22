@@ -17,9 +17,9 @@ A couple of years ago, I was about to board a plane with no forms of entertainme
 
 ## [Talking to Strangers ](https://www.gladwellbooks.com/titles/malcolm-gladwell/talking-to-strangers/9780316478526/) by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) 
 
-In his most recent book, Talking to Strangsers, he talks about the famous case of [Sandra Bland](https://en.wikipedia.org/wiki/Death_of_Sandra_Bland), a black woman who committed suicide in a Texas jail 3 days after she was arrested at a traffic stop. The central idea of the book is that we suffer from biases when we are communicating with strangers, and we are not aware of those shortcomings. He explains the 3 biases with striking examples ranging from CIA double agents to poet Sylvia Plath. In the final chapter, we turn to the Sandra Bland case once again, now equipped to understand what really went wrong in the interaction of Sandra Bland with the police officer. 
+In his most recent book, Talking to Strangers, he talks about the famous case of [Sandra Bland](https://en.wikipedia.org/wiki/Death_of_Sandra_Bland), a black woman who committed suicide in a Texas jail 3 days after she was arrested at a traffic stop. The central idea of the book is that we suffer from biases when we are communicating with strangers, and we are not aware of those shortcomings. He explains the 3 biases with striking examples ranging from CIA double agents to poet Sylvia Plath. In the final chapter, we turn to the Sandra Bland case once again, now equipped to understand what really went wrong in the interaction of Sandra Bland with the police officer. 
 
-## Chapter 1 
+## Fidel Castro's revenge 
 A Cuban spy defects to the US, and starts talking. He tells the officers at CIA, that almost every spy that worked for CIA in Cuba at the time was in fact a double agent feeding the information that was fabricated by Cuban officials and approved by Fidel Castro. For years, even the best agents in CIA had no idea. This situation was not an isolated case. Over the years, CIA faced many embarrasing strories involving double agents in many parts of the world. 
 
 >Why can't we tell when a stranger in front of us is lying to our face? 
