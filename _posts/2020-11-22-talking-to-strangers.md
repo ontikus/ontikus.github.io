@@ -1,6 +1,6 @@
 ---
 title: "Talking to Strangers"
-published: true
+published: false
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -12,11 +12,10 @@ tags:
 #![img-title](/path/to/file.jpg){:class="img-responsive"}
 ---
 
-[Talking to Strangers ](https://www.gladwellbooks.com/titles/malcolm-gladwell/talking-to-strangers/9780316478526/) by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) 
-
-* Who is Malcolm Gladwell and why i read this book? 
-
 A couple of years ago, I was about to board a plane with no forms of entertainment at hand, and I was sure that I would not be able to sleep for even one minute during my 3 hour flight. So, I picked up the book with the most interesting title- [Outliers: The story of success](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/) I could find at the airport bookstore. It turned out to be a great book and changed my view on many events in the world and my definition of success. That's how I found out about [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell). 
+
+
+[Talking to Strangers ](https://www.gladwellbooks.com/titles/malcolm-gladwell/talking-to-strangers/9780316478526/) by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) 
 
 In his most recent book, Talking to Strangsers, he talks about the famous case of [Sandra Bland](https://en.wikipedia.org/wiki/Death_of_Sandra_Bland), a black woman who committed suicide in a Texas jail 3 days after she was arrested at a traffic stop. The central idea of the book is that we suffer from biases when we are communicating with strangers, and we are not aware of those shortcomings. He explains the 3 biases with striking examples ranging from CIA double agents to poet Sylvia Plath. In the final chapter, we turn to the Sandra Bland case once again, now equipped to understand what really went wrong in the interaction of Sandra Bland with the police officer. 
 
@@ -39,3 +38,9 @@ When judges decide if they should set a high bail, or release the defendant, the
 One of the best and the brightest Cuba analysts in the CIA also turned out to be a double agent. Once again, for years no one saw it coming. Even though there were many warnings and red flags about her, the management chose to ignore and explain them away. 
 
 Here the book talks about an experiment made by [Tim Levine](http://timothy-levine.squarespace.com/deception/). The experiment set up entices the subjects to cheat, then interrogate them about the cheating. Then, another set of subjects watch the interrogation videos and decide who among the videos lied and who told the truth.  
+
+This experiment shows that when we face a situation where we have to decide if we are being lied to, we default to truth. We assume, we try to explain away the warning signs to the point that they become unexplainable. Only after our suspicions overcome a certain threshold, we decide that what we hear are lies. 
+
+## The holy fool 
+
+This part demonstrates the *default-to-truth* principle that was introduced before. It goes over the Sandusky case. 
