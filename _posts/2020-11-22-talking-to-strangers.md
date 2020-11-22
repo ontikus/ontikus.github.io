@@ -1,6 +1,6 @@
 ---
 title: "Talking to Strangers"
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -16,35 +16,26 @@ tags:
 
 * Who is Malcolm Gladwell and why i read this book? 
 
-A couple of years back, I was about to board a plane with no forms of entertainment at hand, and I was sure that I would not be able to sleep for even one minute during my 3 hour flight. So, I picked up the book with the most interesting title- [Outliers: The story of success](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/) I could find at the airport bookstore. It turned out to be a great book and changed my view on many events in the world and my definition of success. That's how I found out about Malcolm Gladwell. 
+A couple of years ago, I was about to board a plane with no forms of entertainment at hand, and I was sure that I would not be able to sleep for even one minute during my 3 hour flight. So, I picked up the book with the most interesting title- [Outliers: The story of success](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/) I could find at the airport bookstore. It turned out to be a great book and changed my view on many events in the world and my definition of success. That's how I found out about [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell). 
 
-In his most recent book, he talks about the famous case of [Sandra Bland](https://en.wikipedia.org/wiki/Death_of_Sandra_Bland), a black woman who committed suicide in a Texas jail 3 days after she was arrested at a traffic stop. 
-* What this book is about? 
-* Short summary of all the chapters. 
-* Conclusion 
+In his most recent book, Talking to Strangsers, he talks about the famous case of [Sandra Bland](https://en.wikipedia.org/wiki/Death_of_Sandra_Bland), a black woman who committed suicide in a Texas jail 3 days after she was arrested at a traffic stop. The central idea of the book is that we suffer from biases when we are communicating with strangers, and we are not aware of those shortcomings. He explains the 3 biases with striking examples ranging from CIA double agents to poet Sylvia Plath. In the final chapter, we turn to the Sandra Bland case once again, now equipped to understand what really went wrong in the interaction of Sandra Bland with the police officer. 
 
+## Chapter 1 
+A Cuban spy defects to the US, and starts talking. He tells the officers at CIA, that almost every spy that worked for CIA in Cuba at the time was in fact a double agent feeding the information that was fabricated by Cuban officials and approved by Fidel Castro. For years, even the best agents in CIA had no idea. This situation was not an isolated case. Over the years, CIA faced many embarrasing strories involving double agents in many parts of the world. 
 
-1. CUE - Buna **tetik** diyebiliriz. Bizi o davranışa iten tetikleyici olay. Alkolikler için mesela kötü bir haber almak olabilir. Veya kötü yemek alışkanlıkları olan birisi için işine giderken taze çörek kokan bir tezgahın önünden geçmek. 
+>Why can't we tell when a stranger in front of us is lying to our face? 
 
-2. ROUTINE - Bu yaptığımız davranışın kendisi. Yukarıdaki örneklerden devam edersek içki içmek veya çörekçiden çörek alıp mideye indirmek. 
-   
-3. REWARD - **Ödül** yani yaptığımız davranıştan aldığımız tatmin ve keyif. Kötü haber alıp bununla baş etmekte zorlanan alkoliğin içki içtikten sonra dünyadan ve sorunlarından uzaklaşması. Veya çörekçi için çöreği yediğindeki lezzet ve insülin sarhoşluğu. 
+## Getting to know der Fuhrer 
+Many high-ranking officials and politicians, including the then Prime Minister of England, repeatedly met with Hitler and spent much time with him. But almost all of them misjudged his intentions about invading Chekoslovakia. After each meeting, they believed that Hitler is a reasonable man, he does not want to enter into war. 
 
+In fact, the people who followed Hitler from the news and other intelligence reports had much better view of his intentions than the people who spent time with him face to face. When people meet with strangers, they think they can discover the stanger's intentions, and make out if he's lying or not. But, that is almost never the case as this book tries to prove. 
 
-## Bir alışkanlık nasıl değişebilir? 
-Alışkanlıklarımızdan malesef tamamen kurtulamıyoruz. Yani bir alışkanlığı yok etmek mümkün değil. Sadece alışkanlığı değiştirebiliyoruz. Bunun da yolu ROUTINE kısmını değiştirmek. Bir alışkanlığı yaratan CUE'yu veya ondan aldığımız REWARD'u değiştirmek mümkün değil. Sadece ortadaki ROUTINE'i bir başka ROUTINE ile değiştirebiliriz. 
-Mesela bir alkolik kendini her içki içmek isterken bulduğunda koşuya çıkabilir. Yani kötü bir davranışı iyisiyle değiştirerek kötü alışkanlığından kurtulabilir. 
-O bakımdan eğer kötü bir alışkanlığımızı değiştirmek istiyorsak hayatımızda alışkanlıklarımızı tetikleyen CUE'ları ve hangi ödüllerin peşinde koştuğumuzu belirlememiz lazım. Daha sonra bu tetikler ve ödüllerin arasındaki kötü davranışı bir başkasıyla değiştirebiliriz. 
+When judges decide if they should set a high bail, or release the defendant, they misjudge most of the time how likely the defendent is to commit another crime while he/she is outside. Similarly, orchestras make better hiring decisions if they audition the candidates behind screens. In other words, seeing the musicians or the defendant does not help, but hurt the decision-making. 
 
+> We have a conviction that we know others better than others know us. We think we can easily see into people with just minimal clues. We are very quick to judge strangers. But, strangers are not easy. 
 
-## Özetlemek gerekirse:  
-* Alışkanlıklar tetik, rutin ve ödülden oluşur. Kötü alışkanlığı iyiye çevirmek için tek bir yol var: tetik ve ödülü ellemeyip rutini değiştirmek. 
-* Kötü alışkanlığı yenmek için beyninizin sürekli tatmin etmek istediği ödül ihtiyacını belirleyin. Bu ödül nedir ve bu ödül isteğini tetikleyen olay nedir? Bu ikisini bulduktan sonra bunları size veren başka bir rutin ile eski kötü rutininizi değiş tokuş yapın 
-* Alışkanlıkların kalıcı olması için bazı şeylere dikkat etmek gerekiyor
-     * Değişikliğin kalıcı olacağına dair inancınızın tam olması. Bunu sağlamak için bir gruptan, aile bireylerinden, veya iyi bir dosttan destek almak tavsiye ediliyor. 
-     * Kötü alışkanlığımızı iyisiyle değiştirip bir süre devam etsek bile zor bir durumla karşılaştığımızda yine eskiye döneceğiz. Bunu engellemek için o zor anları önceden bir liste haline getirip o anlar geldiğinde ne yapacağımızı bir plana dökmeliyiz. 
-     * Anahtar alışkanlıklar: her alışkanlık eşit değil. Bazı alışkanlıklarımız hayatımızda çok kritik yere sahip. Bu alışkanlıkları düzelirse hayatımızın diğer alakasız kısımları da otomatik olarak düzelebilir. 
+## Default to truth 
 
+One of the best and the brightest Cuba analysts in the CIA also turned out to be a double agent. Once again, for years no one saw it coming. Even though there were many warnings and red flags about her, the management chose to ignore and explain them away. 
 
-
-
+Here the book talks about an experiment made by [Tim Levine](http://timothy-levine.squarespace.com/deception/). The experiment set up entices the subjects to cheat, then interrogate them about the cheating. Then, another set of subjects watch the interrogation videos and decide who among the videos lied and who told the truth.  
