@@ -1,6 +1,6 @@
 ---
 title: "Talking to Strangers"
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -51,3 +51,7 @@ In the Sandusky case, 2 of his supervisors were charged with conspiracy because 
 
 ## The transparency fallacy 
 
+Trancparency in this context is the idea that you can read what people actually feel from their facial expression and demeanor. But, experiments show that people may show different expressions or behave differently from one another. Some people even lack some expressions. For example, when some people are in fear, their face may become blank, appearing to an observer as cold, heartless, or brave. However, they may be extremely afraid at that moment. We think we are very good at identifying people's emotions from their facial expressions. But, in fact, those readings are flawed, and mislead us most of the time. 
+> The paradox of talking to strangers: we need to talk to them. But, we are terrible at it and we are not honest with one another about how terrible at it we are. 
+
+## A short explanation of the Amanda Knox Case
