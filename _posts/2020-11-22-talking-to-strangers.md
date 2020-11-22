@@ -15,7 +15,7 @@ tags:
 A couple of years ago, I was about to board a plane with no forms of entertainment at hand, and I was sure that I would not be able to sleep for even one minute during my 3 hour flight. So, I picked up the book with the most interesting title- [Outliers: The story of success](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/) I could find at the airport bookstore. It turned out to be a great book and changed my view on many events in the world and my definition of success. That's how I found out about [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell). 
 
 
-[Talking to Strangers ](https://www.gladwellbooks.com/titles/malcolm-gladwell/talking-to-strangers/9780316478526/) by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) 
+## [Talking to Strangers ](https://www.gladwellbooks.com/titles/malcolm-gladwell/talking-to-strangers/9780316478526/) by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) 
 
 In his most recent book, Talking to Strangsers, he talks about the famous case of [Sandra Bland](https://en.wikipedia.org/wiki/Death_of_Sandra_Bland), a black woman who committed suicide in a Texas jail 3 days after she was arrested at a traffic stop. The central idea of the book is that we suffer from biases when we are communicating with strangers, and we are not aware of those shortcomings. He explains the 3 biases with striking examples ranging from CIA double agents to poet Sylvia Plath. In the final chapter, we turn to the Sandra Bland case once again, now equipped to understand what really went wrong in the interaction of Sandra Bland with the police officer. 
 
