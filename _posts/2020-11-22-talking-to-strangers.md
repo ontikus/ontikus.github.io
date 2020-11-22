@@ -43,4 +43,11 @@ This experiment shows that when we face a situation where we have to decide if w
 
 ## The holy fool 
 
-This part demonstrates the *default-to-truth* principle that was introduced before. It goes over the Sandusky case. 
+This part demonstrates the *default-to-truth* principle that was introduced before. It goes over the [Sandusky](https://en.wikipedia.org/wiki/Jerry_Sandusky) and other child abuse cases. It talks about how the officials, supervisors, parents, and even the victims themselves defaulted to truth when they are faced with  reports and allegations of abuse. The key witness in the Sandusky case denied any wrongdoing on Sandusky's part, he even invited Sandusky to his wedding. Years later, he visited Sandusky's home to show his son. 
+
+In the [Nassar](https://en.wikipedia.org/wiki/Larry_Nassar) case, co-workers and friends still thought that he was wrongfully accused even after the police found 30 000 child pornography photos on his computer. 
+
+In the Sandusky case, 2 of his supervisors were charged with conspiracy because they ignored the reports of possible child abuse. The president of the university woved to protect them, because he thought they were wrongfully accused. We think we want our managers, employers, and police officers to be vigilant and want them to never to default to truth, be suspicious of every one all the time. But, in reality, we want them to protect us in times of adversity, like the president tried to protect his employees against the accusations. 
+
+## The transparency fallacy 
+
