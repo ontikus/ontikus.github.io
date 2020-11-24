@@ -33,14 +33,14 @@ Similarly, when judges decide if they should set a high bail or release the defe
 > We have a conviction that we know others better than others know us. We think we can easily see into people with just minimal clues. We are very quick to judge strangers. But, strangers are not easy. 
 
 ## Default to truth 
-One of the best and the brightest Cuba analysts in the CIA also turned out to be a double agent. Once again, for years no one saw it coming. Even though there were many warnings and red flags about her, the management chose to ignore and explain them away. 
+The concept of defaulting to truth, is one of the central problems introduced in the book. The story begins with one of the best and the brightest Cuba analysts in the CIA. After years of promotions and rewards, she turns out to be a double agent working for Cuba. Once again, for years no one sees it coming. Even though there were many warnings and red flags about her, the management choses to ignore and explain them away. 
 
-Here the book talks about an experiment made by [Tim Levine](http://timothy-levine.squarespace.com/deception/). The experiment set up entices the subjects to cheat, then interrogate them about the cheating. Then, another set of subjects watch the interrogation videos and decide who among the videos lied and who told the truth.  
+An experiment made by [Tim Levine](http://timothy-levine.squarespace.com/deception/) helps to formulate the concept of defaulting to truth. The scientists entice the subjects to cheat, and interrogate them about the cheating. Then, another set of subjects watch the interrogation videos and decide who among the videos lied and who told the truth.  
 
 This experiment shows that when we face a situation where we have to decide if we are being lied to, we default to truth. We assume, we try to explain away the warning signs to the point that they become unexplainable. Only after our suspicions overcome a certain threshold, we decide that what we hear are lies. 
 
 ## The holy fool 
-This part demonstrates the *default-to-truth* principle that was introduced before. It goes over the [Sandusky](https://en.wikipedia.org/wiki/Jerry_Sandusky) and other child abuse cases. It talks about how the officials, supervisors, parents, and even the victims themselves defaulted to truth when they are faced with  reports and allegations of abuse. The key witness in the Sandusky case denied any wrongdoing on Sandusky's part, he even invited Sandusky to his wedding. Years later, he visited Sandusky's home to show his son. 
+This part demonstrates the *default-to-truth* principle that was introduced before. It goes over the [Sandusky](https://en.wikipedia.org/wiki/Jerry_Sandusky) and other child abuse cases. It talks about how the officials, supervisors, parents, and even the victims themselves defaulted to truth when they are faced with  reports and allegations of abuse. The key witness in the Sandusky case denied any wrongdoing on Sandusky's part, he even invited Sandusky to his wedding. Years later, he visited Sandusky's home to show his son. Because of his seemingly inconsistent behavior, his testimony is dismissed in the trial. 
 
 In the [Nassar](https://en.wikipedia.org/wiki/Larry_Nassar) case, co-workers and friends still thought that he was wrongfully accused even after the police found 30 000 child pornography photos on his computer. 
 
