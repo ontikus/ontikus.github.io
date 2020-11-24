@@ -26,7 +26,7 @@ A Cuban spy defects to the US, and starts talking. He tells the officers at CIA,
 ## Getting to know der Fuhrer 
 Many high-ranking officials and politicians, including the then Prime Minister of England, repeatedly met with Hitler and spent much time with him. But almost all of them misjudged his intentions about invading Chekoslovakia. After each meeting, they believed that Hitler was a reasonable man, he did not want to enter into war. 
 
-In fact, the people who followed Hitler from the news and other intelligence reports had much better view of his intentions than the people who spent time with him face to face. When people meet with strangers, they think they can discover the stranger's intentions, and make out if he's lying or not. But, that is almost never the case as this book tries to prove. 
+On the other hand, the people who followed Hitler from the news and other intelligence reports had much better view of his intentions than the people who spent time with him face to face. When people meet with strangers, they think they can discover the stranger's intentions, and make out if he's lying or not. But, that is almost never the case as this book tries to prove. 
 
 When judges decide if they should set a high bail, or release the defendant, they misjudge most of the time how likely the defendant is to commit another crime while he/she is outside. Similarly, orchestras make better hiring decisions if they audition the candidates behind screens. In other words, seeing the musicians or the defendant does not help, but hurt the decision-making. 
 
