@@ -60,3 +60,13 @@ According to Levine's experiments, the failure to identify *mismatched* people i
 > But you are trying to find the answer in my eyes ... You are looking at me .. Why? These are my eyes. They are not objective evidence. *Amanda Knox*
 
 ## The fraternity party
+Two young people who do not know each other well meet at a party, have a conversation, drink too much alcohol. When 2 people are drunk, can they consent to have sex? 
+
+There's no clear consensus on what legally and socially constitutes consent. In the polls, people's opinions on what constitutes consent to have more sexual activity differ wildly. 
+
+When people are drunk, we assume that they are *disinhibited*, which means that their inner persona is unleashed. What we see is the real character of the person. However, new research suggests a different term: *myopia*. When we are drunk, we lose the ability to think ahead, we lose the long-term consequences and decisions. Instead, we focus on what's immediate and in front of us. Alcohol does not bring out what's been inside you, it changes your whole understanding of your true self. 
+
+If you drink a lot very quickly, you enter a state called *blackout*. In blackout state, you can function as a normal person if you only need to do tasks that require short-term memory. But, you will have no recollection of what you did when you were blacked out. 
+
+Youth in the present drink much more than that of young people drank in the past. Especially, women are drinking more. The traditional gap between the consumption of women and men significantly narrowed. Because of their physiology, women are more susceptible to having blackouts. They pass the threshold of blackout territory with much less alcohol. 
+
