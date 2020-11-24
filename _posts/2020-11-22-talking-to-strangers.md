@@ -28,7 +28,7 @@ Many high-ranking officials and politicians, including the then Prime Minister o
 
 On the other hand, the people who followed Hitler from the news and other intelligence reports had much better view of his intentions than the people who spent time with him face to face. When people meet with strangers, they think they can discover the stranger's intentions, and make out if he's lying or not. But, that is almost never the case as this book tries to prove. 
 
-When judges decide if they should set a high bail, or release the defendant, they misjudge most of the time how likely the defendant is to commit another crime while he/she is outside. Similarly, orchestras make better hiring decisions if they audition the candidates behind screens. In other words, seeing the musicians or the defendant does not help, but hurt the decision-making. 
+Similarly, when judges decide if they should set a high bail or release the defendant, they misjudge most of the time how likely the defendant is to commit another crime while he/she is outside. Similarly, orchestras make better hiring decisions if they audition the candidates behind screens. In other words, seeing the musicians or the defendant does not help, but hurt the decision-making. 
 
 > We have a conviction that we know others better than others know us. We think we can easily see into people with just minimal clues. We are very quick to judge strangers. But, strangers are not easy. 
 
