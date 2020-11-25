@@ -91,7 +91,7 @@ The famous poet Sylvia Plath killed herself by putting her head inside a [town g
 
 The idea of coupling tells us that some behaviors are coupled to a particular place and time (context). When town gas was replaced with natural gas in homes, the suicide rates in the UK plummeted. 
 
-Another example is th Golden Gate bridge. Of the 515 people who tried to jump off the bridge but were stopped unexpectedly, only 25 tried to commit suicide again. So, they were ready to commit suicide at that particular moment in that particular place. Despite these facts, many people in authority or in the general population believe that people who want to commit suicide will find another way to do it at another time. 
+Another example is the Golden Gate bridge. Of the 515 people who tried to jump off the bridge but were stopped unexpectedly, only 25 tried to commit suicide again. So, they were ready to commit suicide at that particular moment in that particular place. Despite these facts, many people in authority or in the general population believe that people who want to commit suicide will find another way to do it at another time. 
 
 This brings us to the third central puzzle of our book. 
 >We do not understand the importance of the context in which the stranger is operating. 
