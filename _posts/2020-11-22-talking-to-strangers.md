@@ -24,7 +24,7 @@ A Cuban spy defects to the US, and starts talking. He tells the officers at CIA,
 >Why can't we tell when a stranger in front of us is lying to our face? 
 
 ## Getting to know der Fuhrer 
-Many high-ranking officials and politicians, including the then Prime Minister of England, repeatedly met with Hitler and spent much time with him. But almost all of them misjudged his intentions about invading Chekoslovakia. After each meeting, they believed that Hitler was a reasonable man, he did not want to enter into war. 
+Many high-ranking officials and politicians, including the then Prime Minister of England, repeatedly met with Hitler and spent much time with him. But almost all of them misjudged his intentions about invading Czechoslovakia. After each meeting, they believed that Hitler was a reasonable man, he did not want to enter into war. 
 
 On the other hand, the people who followed Hitler from the news and other intelligence reports had much better view of his intentions than the people who spent time with him face to face. When people meet with strangers, they think they can discover the stranger's intentions, and make out if he's lying or not. But, that is almost never the case as this book tries to prove. 
 
