@@ -1,6 +1,6 @@
 ---
 title: "CBT Araçları"
-published: false
+published: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
